@@ -1,5 +1,5 @@
 ---
-title: Tips for creating user personas for open data
+title: #Tips for creating user personas for open data
 permalink: /persona-tips/
 layout: primary
 lead: Use this guide to compile ethnographic observations into a format that allows designers to relate to users at a glance.
