@@ -93,3 +93,12 @@
   links:
     Sustainable Data Engagement Recommendations: https://docs.google.com/document/d/1CA8-Jf3_D8OOChMOBxK2mKfqrXNCkXfzIowD7fbPL_c/edit?usp=sharing
   exclude: false
+ 
+- place_code: glendale_open_contracting
+  place_name: "Glendale, AZ (Development Services)"
+  description: "The Sunlight Foundation worked with Harvard's Government Performance Lab (GPL) 
+  to provide the city of Glendale, AZ with recommendations for implemeting an open contracting
+  strategy. Sunlight and GPL created personas from site visits and interviws to support the open 
+  contracting recommendations."
+  links:
+    "Open Contracting Data Strategies: Recommendations for Glendale, AZ": https://docs.google.com/document/d/1KReTUbl-ZlncDgSyscXMb4Io1XthCW1uEFvZ5kR69aE/edit#
