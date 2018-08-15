@@ -59,14 +59,12 @@
 
 - place_code: austin_general
   place_name: "Austin, TX (General)"
-  description: "Austin’s Open Data Initiative developed personas based on open data users in 2016 during
-  an “open data sprint” to help them in the process of retooling the open data portal to meet growing and
-  changing needs. One of the outcomes of this project was to create standard requirements for open data
-  sets that allow for ongoing evaluation."
+  description: "The City of Austin’s Open Data Initiative developed personas based on open data users in 2016 ongoing "open data sprint" 
+  to guide the City in the process of retooling the open data portal to meet growing and changing needs. One of the outcomes 
+  of this project was to create standard requirements for open data sets that allow for ongoing evaluation."
   links:
     Open Data Product Evaluations: http://open-data-sprints.readthedocs.io/en/latest/project-product-evals.html
     Deliverables from the Open Data Portal User Research Project: https://opendata.bloomfire.com/series/3205862-austin-open-data-user-research-project
-
 
 - place_code: austin_homelessness
   place_name: "Austin, TX (Homelessness)"
@@ -76,6 +74,15 @@
   pertaining to the housing and homelessness sector."
   links:
     "View the Innovation Office presentation “Homelessness Data and Information”": https://docs.google.com/presentation/d/10L4xOSTdVtgGXYF2edK_vSqWnfCOsUAD9AAcqRHblQ0/edit#slide=id.p
+
+- place_code: austin_data
+  place_name: "Austin, TX (Data & Homelessness)"
+  description: "The user personas below are based on the Austin Innovation Team’s existing research on user personas, 
+  adapted to represent open data or information users. The term “data users” refers to both current data users but also 
+  stakeholders who could potentially use data or information to address a challenge related to homelessness."
+  links:
+    "See the report on Austin's recommended actionable opportunities": https://docs.google.com/document/d/13njvwUIoeJ-uxWpjsSiDGKp0XRAx1ZlSnagGqoMJ91Y/edit
+  
 
 - place_code: losangeles
   place_name: "Los Angeles, CA"
