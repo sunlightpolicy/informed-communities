@@ -1,7 +1,7 @@
 ---
 title: Understanding user personas
 layout: primary
-lead: Introductory sentence.
+lead: Methods: what they are and where they come from
 banner_cta: true
 include_subnav: true
 subnav_items:
@@ -43,7 +43,7 @@ Data stewards may approach this guide with a variety of capacities and needs; th
 
 Creating personas is one technical element of a broader suite of community engagement steps that are a core part of the work of Sunlight Open Cities. [Sign up for our mailing list](https://sunlightfoundation.com/policy/open-cities/subscribe-to-sunlight-open-cities/) to stay tuned to our community engagement actions and ideas.
 
-## Methods: what they are and where they come from
+## Research-based Personas for Open Data
 
 We talked to city staff and design research experts that have been involved in identifying the pragmatic use for personas in connection to open data, have worked on the process of creating personas, or made design decisions informed by personas as they manage open data for community use.
 
@@ -57,7 +57,7 @@ That's why in general, it is important to formally separate observation and inte
 
 The tips below outline the methods for creating personas based on user research. Without qualitative research supporting the personas, they run the risk of being superfluous or misleadingly stereotypical. Design firms such as [Reboot](https://reboot.org/) offer resources to achieve even more depth in implementing human-centered design at the local level.
 
-## Preliminary Personas
+## Preliminary Personas for Open Data
 
 While we urge cities to invest time into speaking with a variety of community members, especially those off regular department channels, we know that departments cannot always afford to create research-based personas.
 
