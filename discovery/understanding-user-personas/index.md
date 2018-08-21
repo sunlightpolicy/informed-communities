@@ -1,7 +1,7 @@
 ---
 title: Understanding user personas
 layout: primary
-lead: Methods: what they are and where they come from
+lead: "Methods: what they are and where they come from"
 banner_cta: true
 include_subnav: true
 subnav_items:
