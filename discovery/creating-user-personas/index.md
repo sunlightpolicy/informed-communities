@@ -16,28 +16,6 @@ subnav_items:
   - text: 'Step 4: Persona Use'
     permalink: /persona-tips/#step-4-persona-use
 ---
-
-Introductory sentence or two? (Could pull from background)
-
-## Background
-
-In cities, residents navigate service ecosystems. When considering transparency at the local level, it is important to keep in mind that service ecosystems are complex. The data about these services is dense, and in order to communicate the information to many people, good communication design is essential.
-
-A healthy open data economy means municipal government should be proactively sensitive to demand and access. Creating personas creates a shared language for internal staff, other municipal agencies, and external partners. Throughout the process of creating open data user personas, there are several touch points between designers and users, which remove barriers to empathy.
-
-That's why we have put together some tips to help you generate effective open data personas. Good open data user personas may take several different forms, and may be relevant to specific agency or citywide objectives. Personas are one among many tools that can bolster open data programs, and that in this context they are a means to an end.
-
-What are the end goals of creating personas?
-
-- "Improve accessibility and usability of data to engage a wider audience."
-- Multi-stakeholder collaboration
-- Efficiently communicate residents' roles and goals
-- Improve user-centered design decisions
-- Foster proactive supply of open data
-- Check design assumptions
-
-Acknowledging time and budget constraints, we offer a suggested short design sprint below.
-
 ## Step 1: User Discovery
 
 Effective personas begin with research, which means you have a good reason to go out and talk to residents. The point of user discovery is to elicit stories that can emerge in patterns. Then we have to identify those patterns, which are displayed in user personas. In the process of generating personas, scheduling and conducting interviews will take most of the time. Two to four weeks is a good window for user discovery sprints. [EXAMPLE]
