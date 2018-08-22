@@ -1,7 +1,7 @@
 ---
 title: How to run personas workshops
 layout: primary
-lead: Introductory sentence.
+lead: Run a workshop that produces quick-and-dirty preliminary personas
 banner_cta: true
 ---
 
