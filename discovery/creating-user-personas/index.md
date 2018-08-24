@@ -1,7 +1,7 @@
 ---
 title: Creating user personas for open data
 layout: primary
-lead: Use these tips as a guide to compile ethnographic observations into a format that allows designers to relate to users at a glance.
+lead: Use these tips as a guide to compile ethnographic observations into a format that allows designers to relate to users at a glance
 banner_cta: true
 include_subnav: true
 subnav_items:
