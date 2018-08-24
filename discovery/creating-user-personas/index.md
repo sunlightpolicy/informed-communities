@@ -16,112 +16,110 @@ subnav_items:
   - text: 'Step 4: Persona Use'
     permalink: /persona-tips/#step-4-persona-use
 ---
-## Step 1: User Discovery
+### Step 1: User Discovery
 
-Effective personas begin with research, which means you have a good reason to go out and talk to residents. The point of user discovery is to elicit stories that can emerge in patterns. Then we have to identify those patterns, which are displayed in user personas. In the process of generating personas, scheduling and conducting interviews will take most of the time. Two to four weeks is a good window for user discovery sprints. [EXAMPLE]
+Generating effective personas begins with research, which requires going out and talking to community members. The point of user discovery is to elicit stories that can emerge in patterns. Scheduling and conducting interviews accounts for most of the time involved in creating personas. Two to four weeks is a good window for lightweight user discovery sprints. 
 
-### 1A Team Preparation
+  
 
-- Identify a 3-4 person team to work on all stages of the process of creating personas for open data. As composite products, personas are best assembled by team members that bring different expertise across technical and social sciences disciplines.
-- Narrow the scope of the design problem before starting user discovery by considering city objectives.  
-- Identify key lines of inquiry about a problem and its context. Key lines of inquiry might be motivated by a citywide or agency objective, such as ending homelessness. [EXAMPLE Austin]
-- Make preliminary personas quickly from your team's present knowledge. As a team, think about preliminary categories of users. This is not meant to cover literally everyone. Who are the open data users? What are people going to get out of open data? What do they need from the open data portal? What is their role in their community with regard to open data?
-- Test assumptions by trying to find information on the portal as if you were one of the personas
+1A Prepare Your Team
 
-### 1B Conduct Key Informant Interviews
+  
 
-- Key Informants may include local community leaders, relevant community organizations, civic tech groups, or relevant city staff in other departments. Often there are small groups with loud voices that are disproportionately represented in design thinking. At this stage, cast a wide net to learn who is out there, what their problems are, and what support they are in need of.  
-- Allow key informants to tell you about the open data landscape. KIIs should comprise of mostly if not entirely open ended questions.
-- No more than 5 KIIs are necessary.  
+Make sure you operate within a focus area. [Narrow the scope](http://sunlightfoundation.com/wp-content/uploads/2018/07/methods-menu-1.pdf) of the design problem before starting user discovery by considering city or local objectives. Making preliminary personas quickly from your team's present knowledge can help to gain a sense of what kinds of attributes of user categories are pertinent to local objectives. It is important to think about what characteristics you want to compare across different segments of the population. As a team, think about preliminary categories of users, but be ready to adjust them later. Who are the open data users? What are people going to get out of open data? What public information do they need, and what is their role in their community with regard to open data? Test assumptions by trying to find information on the portal as if you were one of the personas.
 
-### 1C Conduct User Interviews
+  
 
-- We suggest conducting 20 interviews. More is even better.  
-- The snowball method is a good way to find interviewees. KII's may identify people to interview, and those initial interviews may then lead to further contacts for more interviews.
-- We suggest conducting qualitative ethnographic semi-structured interviews.  
-    - There are a lot of resources about conducting ethnographic research.
-- Interviewing in teams of two allows one person to focus on asking questions and maintaining eye contact with the interviewee, and one person to take notes. (Taking notes is more efficient than making audio recordings, and also recordings may make the interviewee feel less comfortable.)  
-- Ideally, create a template based on your key lines of inquiry with basic fields that you can fill in as you conduct your interview.  
-    - Have an organized note-taking sheet that is coded by key lines of inquiry you want to cover.  
-    - DETAIL and SPECIFICITY are essential to record.
-- In the template you can divide the page into two sections: Observations and Interpretations.
-    - An observation is something that anyone can verify empirically. In a user discovery interview, an observation may be about body language, tone of voice, reporting a quote.  
-    - An interpretation is the story we tell in our heads, which we especially tend to do about things we can't observe.  
-    - More interpretations can be developed at a later time, but it is harder to collect more observations without conducting more interviews, so recording observations is important.  
-    - Taking the time to rigorously reflect on distinguishing between observation (what is empirically verifiable) and interpretation (the story we tell ourselves) can help to avoid biased stereotyping.
-- Prepare a question guide.
-    - Based on key lines of inquiry, come up with five key questions that you want to know about every interviewee.
-    - Prepare five additional questions specific to the context of the interview.
-    - Don't follow the question guide precisely; allow the interviewee to guide the conversation and tell his or her story.
-    - Ask open-ended questions that don't have short answers, i.e. "Why do you use open data?", "What is your experience with city services in general?",
-    - Follow up with "How?" and "Why?".
-- Make sure participants know that they are valuable to the research, especially if they are not current users. Think about what questions might acknowledge their relevance to the research, i.e.  "What are other times that you have solved a problem, and how?".  
-- Keep in mind the goal of the research while conducting user discovery. What would people like to solve? What are the current and potential use cases?
-- Staying aware of Key lines of inquiry may surface goals, values in the community, technical skills, non-technical skills.
+- Identify a team of 3–4 people to work on all stages of the process of creating personas for open data. The final products are composites, and so personas are best assembled by team members that bring different expertise across City departments or disciplines. 
+- Identify key lines of inquiry about a problem and its context. Key lines of inquiry might be motivated by a citywide or agency objective, such as ending homelessness. 
 
-## Step 2: Synthesis
+- Run a preliminary [personas workshop.](https://drive.google.com/drive/folders/1e9RJ-k8sv37-86VCTD0Gqhdi5Rvf6NL4) 
+  
 
-The most challenging aspect of generating personas is taking information from many observations, and distilling it into one fictional, yet realistic and research-informed person. Synthesizing can be completed in one full day meeting.
+1B Conduct Key Informant Interviews (KIIs)
 
-### 2A Meeting Preparation
+  
 
-- Reconvene as a full team to synthesize interview notes into patterns.
-- Set the agenda for the synthesis meeting before starting. Lay out your initial questions, or design problems as a city or agency. Share and display the key lines of inquiry--what characteristics do you want to compare--to define and narrow the scope. In other words, make sure you explicitly articulate what you want to use the personas for, as a group as you sit down to synthesize.  
-- Each team member should prepare for the meeting by reviewing interview notes, making comments, and beginning to look for patterns.
+Key Informants may include local community leaders, relevant community organizations, civic tech groups, or relevant city staff in other departments. Often there are small groups with loud voices that are disproportionately represented in how cities make decisions. At this stage, cast a wide net to learn who is out there, what their problems are, and what support they are in need of. Allow key informants to tell you about the open data landscape. KIIs should comprise of mostly if not entirely open ended questions.
 
-### 2B Use affinity mapping to identify segmentations
+- Conduct ~5 KIIs for gaining a wide initial understanding of the open data user landscape. Ask Key Informants for referrals to interviewees. 
+  
 
-- Write down observations on blue post its
-- Write down interpretations on yellow post its
+1C Conduct User Interviews
+
+  
+
+Ask open-ended questions that don't have short answers, i.e. "Why do you use open data?", "What is your experience with city services in general?" Follow up with "How?" and "Why?" Staying aware of Key lines of inquiry may surface goals, values in the community, technical skills, non-technical skills. Don't follow the question guide precisely; allow the interviewee to guide the conversation and tell his or her story. 
+
+  
+
+- Prepare a question guide of questions you might ask. This can be done as a full team or in smaller groups.  
+- Determine ~5 key questions that you want to know about every interviewee. 
+- Prepare ~5 additional questions specific to the context of the interview. 
+  
+
+Rigorously distinguishing between observation (what is empirically verifiable) and interpretation (the story we tell ourselves) can help to avoid biased stereotyping. Use a template for interview notes that distinguishes between facts and observations. Recall that an observation is something that anyone can verify empirically. In a user discovery interview, an observation may be about body language, tone of voice, or reporting a quote. An interpretation is our explanation of why something happens or what something is that we can't observe, for instance "the interviewee is harboring a silent distrust of open data". More interpretations can always be developed at a later time, whereas more observations cannot be collected without conducting more interviews, so try to record many observations.
+
+  
+
+- Conduct ~20 interviews. More is even better. 
+  
+
+Make sure participants know that they are valuable to the research, especially if they are not current users. Think about what questions might acknowledge their relevance to the research, i.e.  "What are other times that you have solved a problem, and how?". Keep in mind the goal of the research while conducting user discovery. What would people like to solve? What are the current and potential use cases?
+
+### Step 2: Synthesis
+
+  
+
+The most creative aspect of generating personas is taking information from many observations, and distilling it into one fictional, yet realistic and research-informed persona. Synthesis can be completed during one meeting. Reconvene as a full team to synthesize interview notes into patterns. 
+
+  
+
+2A Meeting Preparation
+
+  
+
+- Set the agenda for the synthesis meeting before starting. As a group you should articulate what you want to use the personas for. Return to your initial questions or design problems. Share and display the key lines of inquiry. Explicitly agree about what characteristics you want to compare to define and narrow the scope. Each team member should prepare for the meeting by reviewing interview notes, making comments, and beginning to look for patterns. 
+  
+
+###### 2B Use affinity mapping to identify segmentations
+
+  
+
+With key lines of inquiry in mind, try to solidify approximately five categories of interest across all personas. Experiment with clustering post-it notes by theme--there are many possible ways of grouping observations, so don't stress about finding the "right" category. If you can explain a cluster of observations to others in your group, stick with it. Individual interviewees should not be recognizable in the process affinity mapping. This allows for abstract patterns to emerge. Personas should not present web or survey analytics.
+
+  
+
+- Write down observations on blue post its 
+- Write down interpretations on yellow post its 
 - Write down patterns on green post its  
-- Make sure the team is more or less on the same page about observations and interpretations.
-- Mark two axes of interest on the wall. Axes might be, technological ability, proximity to local government, or community impact, each ranging from low to high.
+- Make sure the team is more or less on the same page about observations and interpretations. 
+- Mark two axes of interest on the wall. The axes, ranging from low to high, should relate to key lines of inquiry. For example axes might be: number of open data use instances, technological ability, proximity to government, quality of community impact, number connections in the community, access to other data sets.  
     - Merging themes and patterns is easier when there is a framework for organizing data. This will give the team a sense of what to look for and pull out for the personas.  
-    - The segmentation should allow you to compare characteristics across different segments of users
-- Experiment with placing the post-it notes on the axes.
-- Allow the details to coalesce into clusters along the axes of interest.  
-- Look for patterns and themes within clusters. Which observations resonate together?
-    - Common relation to tools
-    - Common behavior
-    - Common community connections
-    - Common knowledge
-    - Common motivation
-    - Common barrier
-    - Common ability
-- It is normal to identify a theme and then throw it out. There are many possible ways to group attributes, and it is important to feel comfortable in exploring different ways.
-- With key lines of inquiry in mind, try to solidify approximately five categories of interest across all personas
-- Individual interviewees should not be recognizable in the process affinity mapping. This allows for abstract patterns to emerge.
-- Personas should not present averages from research.
+    - The segmentation should allow you to compare characteristics across different segments of users 
 
-## Step 3: Persona Generation
+- Look for patterns and themes within clusters. Which observations resonate together? 
 
-Good design is inherently creative. These tips are meant to encourage anyone working with open data in a smooth process of turning empirical data and analysis into ideation and fictional representation.  Generating user personas entails a jump from data to imaginary characters. We created this toolkit to instill confidence.
+### Step 3: Persona Generation
 
-EXAMPLE: WPRDC points out that making personas should be fun.
+Finalize the synthesis process by compiling the results of brainstorming and affinity mapping. Use [existing personas](https://sunlightpolicy.github.io/open-data-for-communities/personas-library/) or [templates](https://drive.google.com/drive/u/0/folders/1jDPcxT7L8K7js5kYMHJ8SJ6aObX7Q3-M) as a frame of reference, or create your own design. Small anecdotes can help round out a realistic character while also signaling useful information. For example, portraying New York City's [busy bystander](https://opendata.cityofnewyork.us/wp-content/uploads/2017/07/Understanding-the-Users-of-Open-Data_Reboot.pdf#page=29) with headphones conveys a sense that she is preoccupied, while allowing us to think of her as a real person.
 
-Generate personas in the same meeting as the synthesis or during another day.  
+  
 
-### Distill segmentation information into composite individual persona
+Distill segmentation information into a composite individual persona
 
-- Keep in mind that characteristics are the useful component.
-    - Strip back demographic detail to a minimum, leaving aside occupation titles or group affiliations, while highlighting roles, motivations and needs. Think creatively about how to present the characteristics.
-- Think creatively about titles that describe roles (not just occupation).
-    - What do you want to compare across the open data economy?
-- Include capabilities
-- Include Incentives
-- Include personal anecdotes
-- Include a picture
-- Then balance with little details from observations to build out persona as a real relatable person.
-- Once you have a title and some characteristics for each persona, think about their Network and their position in the open data ecosystem/economy
-- Create no more than 6 personas.
-- Look at models of existing templates  
+  
 
-## Step 4: Persona Use
+Persona characteristics should be anonymous, yet specific. The appropriate level of granularity will depend on what you want to use the personas for. A citywide redesign of the open data portal will entail more general characteristics than those of a set of personas developed for addressing a specific issue such as homelessness or contracting. 
 
-### 4A Use Personas to Impact Open Data Economy
+  
 
-- Reference personas while considering portal redesigned
-    - Which datasets will you prioritize to make available?
-    - Which city departments will you partner with to update the open data portal?
-- How can you parse and present open data in a way that is easy for most users to find.
-- Roles and priorities change over time, and also vary from one agency's use cases to the next. Personas should be revised and updated after a couple years to make sure you are in touch with communities.
+- Prioritize roles, motivations and needs over occupation titles or group affiliations, and strip back demographic detail to a minimum. Think creatively about how to present the characteristics. 
+- Think creatively about titles that describe roles (not just occupation). A title should convey what you want to compare across the open data economy? 
+- Include capabilities 
+- Include incentives 
+- Include personal anecdotes  
+- Include a picture 
+- Once you have a title and some characteristics for each persona, think about their Network and their position in the open data economy 
+- Look at models of existing [templates](https://drive.google.com/drive/u/0/folders/1jDPcxT7L8K7js5kYMHJ8SJ6aObX7Q3-M) 
+- Five or six is a good number of personas. Two is probably too little, ten is more than plenty.
