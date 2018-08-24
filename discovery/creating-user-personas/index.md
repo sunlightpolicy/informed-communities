@@ -22,7 +22,7 @@ Generating effective personas begins with research, which requires going out and
 
   
 
-1A Prepare Your Team
+#### 1A Prepare Your Team
 
   
 
@@ -36,7 +36,7 @@ Make sure you operate within a focus area. [Narrow the scope](http://sunlightfou
 - Run a preliminary [personas workshop.](https://drive.google.com/drive/folders/1e9RJ-k8sv37-86VCTD0Gqhdi5Rvf6NL4) 
   
 
-1B Conduct Key Informant Interviews (KIIs)
+#### 1B Conduct Key Informant Interviews (KIIs)
 
   
 
@@ -45,7 +45,7 @@ Key Informants may include local community leaders, relevant community organizat
 - Conduct ~5 KIIs for gaining a wide initial understanding of the open data user landscape. Ask Key Informants for referrals to interviewees. 
   
 
-1C Conduct User Interviews
+#### 1C Conduct User Interviews
 
   
 
@@ -75,14 +75,14 @@ The most creative aspect of generating personas is taking information from many 
 
   
 
-2A Meeting Preparation
+#### 2A Meeting Preparation
 
   
 
 - Set the agenda for the synthesis meeting before starting. As a group you should articulate what you want to use the personas for. Return to your initial questions or design problems. Share and display the key lines of inquiry. Explicitly agree about what characteristics you want to compare to define and narrow the scope. Each team member should prepare for the meeting by reviewing interview notes, making comments, and beginning to look for patterns. 
   
 
-###### 2B Use affinity mapping to identify segmentations
+#### 2B Use affinity mapping to identify segmentations
 
   
 
