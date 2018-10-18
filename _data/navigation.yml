@@ -7,8 +7,6 @@ navbar:
   permalink: /action/
 - text: Philosophy
   permalink: /philosophy/
-- text: Contact
-  permalink: /contact/
 
 drawer:
   - text: Discovery methods
@@ -19,8 +17,6 @@ drawer:
     permalink: /action/
   - text: Philosophy
     permalink: /philosophy/
-  - text: Contact
-    permalink: /contact/
 
 footer:
   - text: Discovery
