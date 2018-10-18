@@ -7,6 +7,8 @@
   <body class="{% if page.type == "tag"%}tag-{% endif %}page-{{ page.title | slugify }}
   {% if page.header_border == true or layout.header_border == true %}header_border{% endif %} {% if page.path contains '_posts' %}single-post{% endif %}">
 
+    {% include javascript.html %}
+
     {% unless layout.title == '18F UI Styleguide' %}
       {% include header.html %}
     {% endunless %}
@@ -25,8 +27,6 @@
         </div>
       </footer>
     {% endunless %}
-
-    {% include javascript.html %}
 
   </body>
 </html>
