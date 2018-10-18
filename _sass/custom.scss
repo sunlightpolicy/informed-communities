@@ -1,0 +1,34 @@
+// Custom rules for this site. In general, the goal is to not have ad-hoc rules like this, but it's being done here to avoid messing with the intricately complicated style rules that come with the site. This is only for the featured-resources section of the home page.
+
+
+// Custom styles for Sunlight bar at top of page:
+
+.usa-disclaimer {
+    height: 4.1rem !important;
+    font-size: 1.6rem !important;
+    padding-top: 0.5rem;
+}
+
+.usa-disclaimer-inner {
+    margin: 0 auto;
+    display: table;
+}
+
+.usa-disclaimer-official p {
+    vertical-align: middle;
+    color: gray;
+    margin-right: 7px !important;
+    padding-top: 2px;
+}
+
+.usa-disclaimer-official img {
+    float: none !important;
+    width: unset !important;
+    height: 3rem;
+    vertical-align: middle;
+}
+
+.site-logo img {
+    /* width: 13rem; */
+    height: 4.5rem;
+}
