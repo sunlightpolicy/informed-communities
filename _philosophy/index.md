@@ -3,20 +3,6 @@ title: Philosophy
 permalink: /philosophy/
 layout: primary
 lead: The driving philosophy here is called Tactical Data Engagement (TDE), which focuses on how governments can facilitate community use of open data.
-banner_cta: true
-subnav_items:
-  - text: 'Background'
-    permalink: /philosophy/#background
-  - text: 'Audience'
-    permalink: /philosophy/#audience
-  - text: 'Step 1: Find'
-    permalink: /philosophy/#step-1-find
-  - text: 'Step 2: Refine'
-    permalink: /philosophy/#step-2-refine
-  - text: 'Step 3: Design'
-    permalink: /philosophy/#step-3-design
-  - text: 'Step 4: Implement'
-    permalink: /philosophy/#step-4-implement
 ---
 
 Tactical Data Engagement is a four-step method for City Hall to help residents make an impact in their community using open data. The steps are:
@@ -120,3 +106,6 @@ This step is where you should help actual users, identified in the course of the
 Commit to consistent or open feedback channels with residents to ensure you met needs and are driving toward impact. Note that the first solution may not always be the best one, and that those members of the community who contributed to the project — and who are the primary users or beneficiaries of community improvements through the use of open data — have crucial insight into any product’s usability.
 
 The tactic you choose at this stage should build on your work from Steps 1, 2, and 3 and should meet the community’s needs as directly as possible.
+
+
+<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script>

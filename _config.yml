@@ -89,7 +89,6 @@ defaults:
     path: "_philosophy"
   values:
     layout: primary
-    include_subnav: true
     subnav_anchor: /philosophy/
  -
   scope:
