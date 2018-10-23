@@ -9,7 +9,7 @@ Tactical Data Engagement is a four-step method for City Hall to help residents m
 1. **Find** a general focus area by observing community information needs
 2. **Refine** information use cases by interviewing stakeholders
 3. **Design** a plan by coordinating with target data users
-4. **Implement** an intervention by collaborating with actual users.
+4. **Implement** an intervention by collaborating with actual users
 
 ![TDE funnel-grid diagram](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-funnel-grid.png)
 
