@@ -32,3 +32,11 @@
     /* width: 13rem; */
     height: 4.5rem;
 }
+
+
+// Custom font for headers:
+
+h1, h2, h3 {
+    font-family: 'adrianna' !important; // fallback is the regular $font-sans
+}
+
