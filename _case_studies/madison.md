@@ -1,7 +1,11 @@
 ---
 title: "Equitable and Complete Neighborhoods in Madison, Wisconsin"
+lead: "Case study"
 layout: primary
+image_primary: "/assets/img/case-studies/madison.png"
 ---
+
+![]({{ page.image_primary | prepend: site.baseurl }})
 
 In the fall of 2016, the City of Madison launched a two-year effort to conduct a people-powered planning process to update Madison’s comprehensive plan. In the Neighborhoods and Housing issue area, residents expressed a dire need for “affordable housing in corridors with access to transit, schools, parks, libraries, neighborhood centers, and other amenities needed for daily living,” asking for more neighborhoods to meet that standard of completeness. While the Madison metropolitan area has [grown steadily](https://www.capitalarearpc.org/what-new-2016-population-estimates-say-about-the-greater-madison-region/) for the last six years, a 2013 report found that [racial disparities between Madison neighborhoods](http://www.wkow.com/story/37240169/2018/01/10/wisconsin-still-has-some-of-the-biggest-racial-disparities-in-the-us) created significant challenges for communities of color. The City of Madison responded to this finding by incorporating a distinct focus on racial equity into its strategic planning in 2017 including a goal that all Madison residents have equitable opportunities to live in and be part of strong, complete neighborhoods. Madison’s open data and innovation staff reached out to Sunlight for help using Tactical Data Engagement to address the demonstrated need for more complete neighborhoods in Madison.
 
@@ -17,7 +21,7 @@ Building on this focus area we next developed a list of community members who wo
 
 Reboot and Sunlight interviewed Madison’s neighborhood data stakeholders with support from city staff to gain a better understanding of the open data environment. At the end of the interview stage, the research team and city staff synthesized insights to build out specific opportunities for residents to gain better access to or use public data to address neighborhood issues. The result of this research was a set of six open data user personas, all of whom are working on neighborhood issues, including illustrations of their data journeys and the pain points they face in trying to get data from the city and its communities. These journeys and pain points were refined into specific opportunities where Madison might convene or collaborate with specific neighborhood data users to improve city neighborhoods. The user personas report and the recommendations will be public as part of the conclusion of the refining stage.
 
-## Following the TDE process
+## Following the TDE process:
 
 ### 1. Finding a focus area
 
