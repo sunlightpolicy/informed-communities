@@ -28,6 +28,9 @@ jekyll-archives:
     tag: '/tags/:name/'
 
 collections:
+  case_studies:
+    output: true
+    permalink: /case-studies/:path/
   philosophy:
     output: true
     permalink: /:path/
