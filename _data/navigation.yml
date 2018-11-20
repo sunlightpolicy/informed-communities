@@ -5,6 +5,8 @@ navbar:
     - /discovery/:path/
 - text: Action methods
   permalink: /action/
+- text: Case studies
+  permalink: /case-studies/
 - text: Philosophy
   permalink: /philosophy/
 
