@@ -1,12 +1,12 @@
 # Site settings
-title: "Informed Communities"
-description: "An incredible sentence about open data, local communities, and user-centered design."
+title: "Roadmap to Informed Communities"
+description: "Tools for community-centered open data"
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: pretty
 env: "production"
 logo: /assets/img/logos/sunlight-logo-dark.png
 tag_dir: tags
-github_repo: https://github.com/sunlightpolicy/open-data-for-communities/blob/master
+github_repo: https://github.com/sunlightpolicy/informed-communities/blob/master
 
 related_posts: 3
 
