@@ -1,39 +1,38 @@
 ---
 title: Resources for What Works Cities
 layout: primary
-lead: Learn how this site’s resources can help you meet WWC Certification criteria or complete a Tactical Data Engagement project
+lead: Learn how this site’s resources can help you meet WWC Certification criteria
 banner_cta: false
 ---
 
-# WWC Certification
+# Interested in getting certified through What Works Cities?
 
-Here are some resources on this site to help you meet WWC certification criteria:
+Sunlight Open Cities partners with Bloomberg Philanthropies’ [What Works Cities (WWC) Initiative](https://whatworkscities.bloomberg.org/) to provide direct technical assistance to U.S. cities to become more data-driven and data-democratized.
+
+Whether you’re just starting out developing an open data policy, or you’re ready to dive deeper into engaging and mobilizing your community with open data, the Roadmap to Informed Communities has resources that can help you work towards [WWC Certification](https://whatworkscities.bloomberg.org/certification/).
+
+Certification helps cities benchmark their progress and develop a roadmap for using data and evidence to deliver results for residents. Completing a Certification assessment is the entry point to What Works Cities and accessing the range of support our partners offer.
+
+Sunlight’s resources, including this site, primarily support What Works Cities in meeting **Open Data** and **Stakeholder Engagement** Certification criteria.
+
+### Open Data criteria:
 
 |Criterion|Resource|
 |---|---|
-|42. Does your local government regularly incorporate internal and external demand signals into the design and implementation of its open data and transparency practices?|[List of research methods]()|
-|51. Does your local government track or document the internal and external use of public data (i.e. sharing stories of open data use, providing guidance on open data use, maintaining open data stakeholders/user “maps”)?|[Worksheet for mapping community stakeholders]()|
-|52. Does your local government provide clear how-to guidance or open source code with guidance (including online or in-person products, publications, or tools) to help residents analyze, visualize, or apply specific open datasets?|[Something]()|
+|1. Your local government has a publicly available, codified open data policy that commits to data transparency and proactive public disclosure of local government data and data practices.|[Sunlight’s Open Data Policy Hub > Policy Generator](https://opendatapolicyhub.sunlightfoundation.com/generator/)|
+|2. Your local government has a documented process for publishing open data.|[Sunlight’s Open Data Policy Hub > Policy Guidelines](https://opendatapolicyhub.sunlightfoundation.com/guidelines/)|
 
-# Tactical Data Engagement
+### Stakeholder Engagement criteria:
 
-To read more about the Tactical Data Engagement four-step process, check out our [Philosophy page]({{ site.baseurl }}/philosophy/).
+|Criterion|Resource|
+|---|---|
+|1. Your local government tracks and documents insights about open data users and open data applications, and incorporates user needs into the design and implementation of its open data and transparency practices.|[Roadmap to Informed Communities > Discovery > Problem-scoping & User Research]({{ site.baseurl }}/discovery/)|
+|2. Your local government provides clear how-to guidance to help residents access and use city data.|[Roadmap to Informed Communities > Discovery > User Research]({{ site.baseurl }}/discovery/) <br><br>(Further resources forthcoming)|
+|3. Your local government provides a clear process for partnership and collaboration with data users for the purpose of creating, revising, and/or improving the local government’s open data policies and practices.|[Sunlight’s guide to participatory open data policy](https://sunlightfoundation.com/policy/open-cities/projects-resources/#crowdlaw)<br><br>[Roadmap to Informed Communities > Action > Collaboration Playbooks]() <br><br>(Further resources forthcoming)|
+|4. Your local government provides a clear process for partnership and collaboration with data users for the purpose of inviting community members to use public city data to solve pressing community issues.|[Roadmap to Informed Communities > Action > Collaboration Playbooks]() <br><br>(Further resources forthcoming)|
 
-## 1. Find
+### Other criteria:
 
-See the “Getting started” and “Finding a focus area” sections of our [Discovery methods]({{ site.baseurl }}/discovery/).
+While Open Data and Stakeholder Engagement are the primary focuses of our work with What Works Cities, we also collaborate with partners at the [Government Performance Lab](https://govlab.hks.harvard.edu/) and the [Center for Government Excellence (GovEx)](https://govex.jhu.edu/) to provide support to meet Certification criteria on **Results-Driven Contracting** and **Data Governance**, respectively.
 
-## 2. Refine
-
-See the “Understanding data users” and “Supporting clear use cases” sections of our [Discovery methods]({{ site.baseurl }}/discovery/).
-
-## 3. Design
-
-Resources to come
-
-## 4. Implement
-
-Resources to come
-
-
-<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script>
+<!-- <script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script> -->
