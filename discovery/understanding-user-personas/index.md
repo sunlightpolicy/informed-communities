@@ -3,18 +3,6 @@ title: Understanding user personas
 layout: primary
 lead: "Methods: what they are and where they come from"
 banner_cta: true
-include_subnav: true
-subnav_items:
-  - text: 'Fix this table of contents!'
-    permalink: /persona-tips/#background
-  - text: 'Step 1: User Discovery'
-    permalink: /persona-tips/#step-1-user-discovery
-  - text: 'Step 2: Synthesis'
-    permalink: /persona-tips/#step-2-synthesis
-  - text: 'Step 3: Persona Generation'
-    permalink: /persona-tips/#step-3-persona-generation
-  - text: 'Step 4: Persona Use'
-    permalink: /persona-tips/#step-4-persona-use
 ---
 
 Cities are increasingly turning to human-centered design to understand how to target their services to residents. This also applies to open data. Open data can create healthy dialogue, help people make decisions, and [empower people to act.](https://sunlightfoundation.com/policy/open-cities/tactical-data-engagement/)

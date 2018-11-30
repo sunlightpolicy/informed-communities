@@ -4,6 +4,7 @@ permalink: /methodology/
 layout: primary
 lead: "A guiding framework for data providers, inside and outside of City Hall, to investigate and catalyze community use of information and open data."
 redirect_from: /philosophy/
+create_toc: true
 ---
 
 ## Preface
@@ -219,6 +220,3 @@ Data providers must incorporate resident input, either through user testing, sur
 Without concrete commitments to community partnerships and collaboration, open data projects between data providers and users may lack sustainability and real impact. Different types of projects to open up or apply public data require different levels of commitment on the part of data providers or local governments. Tactical Data Engagement provides an opportunity for local governments to reconsider exactly how they partner with their constituencies across the board, and may encourage them to think outside the box when it comes to taking a hands-on, human-centered approach to fostering community problem-solving and innovation with tech and data.
 
 Data providers can use the strategies and tools we provide in [Step 4: Implement](https://sunlight-open-cities.gitbook.io/tde-guide/the-framework/step-4-implement) to better evaluate their own capacity to be true partners with their local data users. Governments in particular should be aware that data and tech-driven community collaborations will deteriorate without formalized commitments to institutional support.
-
-
-<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script>

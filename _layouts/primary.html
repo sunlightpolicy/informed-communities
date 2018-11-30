@@ -62,6 +62,9 @@ layout: default
   {% endif %}
 </section>
 
+{% if page.create_toc %}
+<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script>
+{% endif %}
 
 <!--
 {% if page.banner_cta %}
