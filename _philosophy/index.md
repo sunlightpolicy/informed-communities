@@ -1,8 +1,9 @@
 ---
 title: Tactical Data Engagement
-permalink: /philosophy/
+permalink: /methodology/
 layout: primary
 lead: "A guiding framework for data providers, inside and outside of City Hall, to investigate and catalyze community use of information and open data."
+redirect_from: /philosophy/
 ---
 
 ## Preface

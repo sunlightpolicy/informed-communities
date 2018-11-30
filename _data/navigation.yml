@@ -1,24 +1,24 @@
 navbar:
-- text: Discovery methods
-  permalink: /discovery/
-  multiple_permalinks:
-    - /discovery/:path/
-- text: Action methods
-  permalink: /action/
-- text: Case studies
-  permalink: /case-studies/
-- text: Philosophy
-  permalink: /philosophy/
+  - text: Methodology
+    permalink: /methodology/
+  - text: Discovery tools
+    permalink: /discovery/
+    multiple_permalinks:
+      - /discovery/:path/
+  - text: Action tools
+    permalink: /action/
+  - text: Case studies
+    permalink: /case-studies/
 
 drawer:
-  - text: Discovery methods
+  - text: Methodology
+    permalink: /methodology/
+  - text: Discovery tools
     permalink: /discovery/
     multiple_permalinks:
     - /discovery/:path/
-  - text: Action methods
+  - text: Action tools
     permalink: /action/
-  - text: Philosophy
-    permalink: /philosophy/
 
 footer:
   - text: Discovery
