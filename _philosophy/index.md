@@ -66,18 +66,22 @@ In this guide, we lay out a sequence for Tactical Data Engagement that starts wi
 
 While Tactical Data Engagement is laid out as a step-by-step process, it is also a modular, adaptable collection of resources that any data providers can use to build human-centered practice into their open data efforts. Government staff can benefit from training data owners in this framework's modular strategies, with or without completing a beginning-to-end Tactical Data Engagement pilot project.
 
-This process is meant to be repeated, or _iterated_, so that it can be applied to new opportunities for communities to use open data. Over time and various iterations, TDE can help local leaders develop a more open culture and consistently facilitate a community’s use of open data with varying members of the community and across various opportunities.
+#### Different phases, different goals
+
+We're calling the first two steps of Tactical Data Engagement, _Find_ and _Refine_, the Discovery steps because data providers should spend the front end of any Tactical Data Engagement project framing, scoping, and researching the problems they'd like to tackle. As we explain later in [A Modular Approach](#a-modular-approach), these steps are meant to help city government staff and data providers build a culture of doing problem-scoping and design researchbased on communities' information needs. Understanding the strategies we use to complete the Discovery steps can help data providers share more community-centered open data even if they're not completing the entire Tactical Data Engagement process.
+
+The last two steps of Tactical Data Engagement, _Design_ and _Implement_, are what we call Action steps. In developing the guidance for these steps, we leaned heavily on existing practices of co-creation, co-design, design thinking, and community partnerships. Cities and data providers can use the strategies in these steps to take tangible action to improve the accessibility and impact of their open data. However, in the chronology of Tactical Data Engagement, we put these steps after Discovery because we believe that while you can co-create and partner with community organizations to develop solutions using open data, it's important to approach action intentionally.
+
+A final note: This process is meant to be repeated, or _iterated_, so that it can be applied to new opportunities for communities to use open data. Over time and various iterations, Tactical Data Engagement can help local leaders develop a more open culture and consistently facilitate a community’s use of open data with varying members of the community and across various opportunities.
 
 ### Step 1: Find
-
-![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-1.png)
 
 The first step in TDE is listening to analyzing community demand signals for transparency, open data, or even policy change, and identifying the issue areas where open data might help.
 
 <div class="funfact-blockquote">
-In this step, you should aim to:
+<strong>In this step, you should aim to:</strong>
 <br>☑ Evaluate your internal priorities for open data
-<br>☑ Listen to community demands for transparency, information, and data
+<br>☑ Listen to community demands for public data and info
 <br>☑ Identify which priorities overlap
 <br>☑ Choose to proceed with a clear focus area
 </div>
@@ -86,27 +90,107 @@ You may already be listening to residents’ concerns and needs by conducting su
 
 As you listen to and observe the community’s needs, identify opportunities where public data or information would empower residents to better understand, address, or collaborate to solve their concerns. Observe whether a majority of promising opportunities for the use of open data are clustered around a single issue or focus area.
 
+<div class="funfact-blockquote">
+Strategies to complete this step can be found in the <a href="{{ site.baseurl }}/discovery/">Discovery section</a> of this site.
+</div>
+
 **The result: A clear focus area**
 
 After listening to a variety of challenges that might require the community use of open data, choose a focus area by aligning those opportunities with the city’s on-going strategic priorities as well as with the cities information holdings.
 
+![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-1.png)
+
 ### Step 2: Refine
+
+In this step, look within your focus area for open data use cases by investigating who community members are, what open data and information they need, and why they need it.
+
+<div class="funfact-blockquote">
+<strong>In this step, you should aim to:</strong>
+<br> ☑ Narrow down stakeholder groups relevant to your focus area  
+<br> ☑ Do interviews, focus groups, surveys, or research (optional)  
+<br> ☑ Segment specific user types and use cases for open data  
+<br> ☑ Begin prioritizing community use cases for you to support  
+<br> ☑ Avoid getting ahead in planning <em>how</em> you'll support use cases
+</div>
+
+As you dive deeper into your focus area, you'll be looking to gather as much information as you can about _who_ needs open data or public information, _what_ they need, and _why_ they need it. No matter what strategies you use to begin answering these questions, you should ensure that you're reaching out to community members to ground-truth your understanding of residents' needs for information and data. Remember that residents are experts in their own neighborhoods, communities, and issue areas, and listening to their knowledge will help refine the details around specific use cases for open data in your focus area.
+
+In this step, we challenge data providers to think creatively about how data and information play a role in the lives of their residents.
+
+What is data? Try to think expansively about what "data" means. To you, data might be a structured .csv file with accompanying metadata. To _potential_ data users, it might be a single statistic they need to write an informed news article, a data visualization that helps them understand their neighborhood's health, or a map of City-run community centers so that they can navigate available social services.
+
+In conversations with community stakeholders, investigators should listen for clues about _who_ people with data needs are, _what_ data or information they regularly use or are seeking, and _why_ they need that public data. Investigators should also closely document and synthesize these findings into clear use cases.
+
+Strategies to complete this step can be found in the [Discovery section](https://sunlightpolicy.github.io/open-data-for-communities/discovery/) of Sunlight's Roadmap to Informed Communities, including guidance on how to write a good use case.
+
+**The result: A set of use cases and relevant personas**
+
+We find that looking at a set of five to seven use cases for open data can help city staff take a "big picture" look at the community's data needs and the City's priorities to evaluate which use cases might align well with ongoing or potential city efforts.
+
+Use cases can be fleshed out and humanized through the development of user personas. Taking on the additional effort to develop user personas may seem frivolous at first, but often helps teams align around a vision for who in the community will benefit from their open data efforts. In essence, personas are stereotypes, constructed intentionally and with anonymized community input. While they are not comprehensive in capturing _all_ of residents' needs across the board, with enough focus on data and information, they can give data providers a helpful short-hand when planning their programs.
+
+Multiple user types as laid out through personas may share use cases with other users, or have multiple use cases for open data. This is an imperfect process. Regardless, documenting the _who, what, and why_ components of a use case, and taking extra time to flesh out the _who_ through user personas can help build strong foundations of issue-oriented community-centered design into your open data program.
 
 ![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-2.png)
 
-[missing content?]
-
 ### Step 3: Design
+
+In this step, ask how you can support identified use cases and map out potential solutions by feasibility and potential impact alongside community stakeholders.
+
+<div class="funfact-blockquote">
+<strong>In this step, you should aim to:</strong>
+<br>☑ Propose creative open data solutions to support use cases  
+<br>☑ Rank use cases and potential solutions by feasibility & impact   
+<br>☑ Choose one or two potential use cases & solutions to support  
+<br>☑ Convene relevant stakeholders to re-imagine solutions  
+<br>☑ Scope and plan to implement co-created solutions  
+</div>
+
+Designing data-driven solutions based on community needs must be an iterative and open-minded process. It's important to note that choosing to support a use case and beginning to brainstorm solutions should be a process that engages external stakeholders at every opportunity possible.  
+
+Up until this point, research has focused on broadening data providers' understanding of community needs. In this step, readers should narrow in a specific use case and begin co-designing tactical, implementable solutions. Limiting opportunities in this step to support only one use case is crucial for taking a tactical, focused approach to facilitating the community use of open data, one iteration at a time.
+
+For practical reasons, at this stage, data providers and internal stakeholders often need to convene internally to assess which use cases identified in the  Discovery steps are relevant to internal strategic priorities. All of the identified use cases should have clear roots in community needs, so moving forward, data providers may choose to support one potentially feasible, impactful use case. For example, cities with nascent open data programs may choose to support low-hanging fruit use cases where the community's needs are centered around data accessibility and usability. Cities with mature open data programs may choose to support harder-to-solve use cases, maybe  pertaining to complex social issues and requiring hands-on community partnerships or technical development.
+
+Narrowing the focus and choosing to support a specific use case opens the door for data providers to convene people who are specifically relevant to the problem at hand to begin co-designing _solutions_. Data providers should first narrow down the intended users of relevant data and then decide how to work more closely with them to begin mapping potential interventions like products, projects, or tools. This is the point at which data providers and community members alike can convene to ask: _"How might we better support this clear use case for open data?"_
+
+<div class="funfact-blockquote">
+Strategies to complete this step can be found in the [Action section]({{ site.baseurl }}/action/) of this site.
+</div>
+
+**The result: A co-designed project plan**
+
+Collaborative planning with the intended data users in your community is essential for ensuring that planned interventions address exactly what data users need and account for details of implementation, for example, ensuring that the community agrees on who should house the project or sustain it once the government’s role is complete. A plan that hasn’t been reviewed by residents is less likely to be effective.
+
+Whether the tactical solution you eventually come to is a new tool, a civic hacking event, a website, a reformatted dataset, or a how-to guide, data owners should document and share out input with project partners. Closing feedback loops between data owners and their community partners helps build trust between participants in the open data ecosystem and furthers good open government practice.
+
+<div class="funfact-blockquote">
+<strong>“How formal does my plan need to be?”</strong> It depends on your context. In a community that has already had lots of conversations about open data and shared goals, a short back and forth over email or an in-person conversation at a community meeting might be enough. In a community where there is less common understanding, you will probably need to do more work building consensus.
+</div>
 
 ![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-3.png)
 
-[missing content?]
-
 ### Step 4: Implement
 
-![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-4.png)
+This step is where you help actual users, identified through previous research and co-design, to carry out the planned intervention that addresses your community-approved open data use case.
 
-[missing content?]
+Carrying out this intervention is the culmination of facilitating community use of open data. We developed the tactics in this section based on interventions that data providers and cities have used to facilitate community use of open data through projects, tools, or products. The opportunity to facilitate data use may mean sharing datasets that are not currently available in formats and with contents that best suit the needs of the requesters.
+
+<div class="funfact-blockquote">
+<strong>Be smart about communication.</strong> Strong communications expertise and staff capacity is a largely undervalued part of running an open data program. In order for your open data projects, tools, or resources to have a greater impact in supporting your community,  you need to invest intentionally in communications capacity.
+</div>
+
+Commit to consistent or open feedback channels with residents to ensure you met needs and are driving toward impact. If your project will be delayed, communicate with community stakeholders about why.  Note that the first solution may not always be the best one, and that those members of the community who contributed to the project — and who are the primary users or beneficiaries of community improvements through the use of open data — have crucial insight into any product’s usability.
+
+An important piece of building community trust in public data and public institutions is following through on commitments and maintaining open lines of communication.
+
+**The result: Demonstrated success**
+
+Completing a tactical, community-informed project by using this process can demonstrate to stakeholders inside and outside of your organization that open data has clear applications in addressing pertinent social issues. As data providers on first attempts at working with community members to apply open data, they can slowly begin increasing their maturity and taking on harder, and more impactful social issues.
+
+In our work, we've found that community members, no matter their core issues, no matter their role in the city, can always benefit from better information in some shape or form. Sometimes that information comes in the form of open data. With this framework, we hope that cities will expand the way that open data plays a role in improving lives for communities' residents.
+
+![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-4.png)
 
 ## A Modular Approach
 
@@ -128,7 +212,7 @@ Unlike in private industries, local governments have a democratic responsibility
 
 The public should always have an opportunity to contribute to the decision-making behind technology and data projects that will ultimately affect them. In general, inviting stakeholder participation in project design can help improve the effectiveness of the end product in meeting stakeholders' needs. Specifically, local governments have a responsibility to open their decision-making to local residents when it comes to experimentation and innovation using public data and technology.
 
-Data providers must incorporate resident input, either through user testing, survey efforts, or hands-on co-creation, into the open data pilot projects to ensure that end products of open data projects will actually meet stakeholders' needs. By designing _with_ members of their communities, local government staff can also work to ensure that their data and tech projects are designed by inclusive, diverse teams. Data providers and local government staff alike can use co-creation strategies like the ones we outline in [Step 3: Design](https://sunlight-open-cities.gitbook.io/tde-guide/the-framework/step-3-design)to begin engaging their residents to design effective products.
+Data providers must incorporate resident input, either through user testing, survey efforts, or hands-on co-creation, into the open data pilot projects to ensure that end products of open data projects will actually meet stakeholders' needs. By designing _with_ members of their communities, local government staff can also work to ensure that their data and tech projects are designed by inclusive, diverse teams. Data providers and local government staff alike can use co-creation strategies like the ones we outline in [Step 3: Design](https://sunlight-open-cities.gitbook.io/tde-guide/the-framework/step-3-design) to begin engaging their residents to design effective products.
 
 #### Institutions need to pony up for community partnerships
 
