@@ -10,11 +10,7 @@ github_repo: https://github.com/sunlightpolicy/informed-communities/blob/master
 
 related_posts: 3
 
-
-analytics:
-  google:
-    code: '' # Change this to your GSA analytics code
-
+google_analytics: 'UA-48789618-12'
 
 # blog archive at /blog
 paginate: 5
