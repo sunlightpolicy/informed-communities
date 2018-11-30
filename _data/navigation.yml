@@ -19,6 +19,8 @@ drawer:
     - /discovery/:path/
   - text: Action tools
     permalink: /action/
+  - text: Case studies
+    permalink: /case-studies/
 
 footer:
   - text: Discovery
