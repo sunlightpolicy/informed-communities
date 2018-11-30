@@ -2,10 +2,11 @@
 // ==========================
 
 .hero {
-  background-image: url('../img/page-feature/hire-us.jpg');
-  background-position: center;
+  background-image: url('../img/action-thumbnails/code-for-pgh.jpg');
+  // background-position: center;
   background-size: cover;
   padding: 0;
+  background-position: initial; // TEMPORARY
 }
 
 .hero-img-collapsed {
@@ -16,7 +17,7 @@
   background-image: none;
 
   @include media($tablet-screen) {
-    background-image: url('../img/page-feature/hire-us.jpg');
+    background-image: url('../img/action-thumbnails/code-for-pgh.jpg');
   }
 }
 

@@ -9,6 +9,8 @@ banner_cta: false
 
 Sunlight Open Cities partners with Bloomberg Philanthropies’ [What Works Cities (WWC) Initiative](https://whatworkscities.bloomberg.org/) to provide direct technical assistance to U.S. cities to become more data-driven and data-democratized.
 
+<img src="{{ site.baseurl }}/assets/img/logos/wwc-resource-stamp.png" align="right" alt="What Works Cities resource stamp" width="120" style="margin-left:15px;">
+
 Whether you’re just starting out developing an open data policy, or you’re ready to dive deeper into engaging and mobilizing your community with open data, the Roadmap to Informed Communities has resources that can help you work towards [WWC Certification](https://whatworkscities.bloomberg.org/certification/).
 
 Certification helps cities benchmark their progress and develop a roadmap for using data and evidence to deliver results for residents. Completing a Certification assessment is the entry point to What Works Cities and accessing the range of support our partners offer.
