@@ -1,7 +1,7 @@
 ---
 title: Understanding user personas
 layout: primary
-lead: "Methods: what they are and where they come from"
+lead: "What are user personas and how can you use them?"
 banner_cta: true
 ---
 
