@@ -36,5 +36,3 @@ Sunlight’s resources, including this site, primarily support What Works Cities
 ### Other criteria:
 
 While Open Data and Stakeholder Engagement are the primary focuses of our work with What Works Cities, we also collaborate with partners at the [Government Performance Lab](https://govlab.hks.harvard.edu/) and the [Center for Government Excellence (GovEx)](https://govex.jhu.edu/) to provide support to meet Certification criteria on **Results-Driven Contracting** and **Data Governance**, respectively.
-
-<!-- <script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script> -->
