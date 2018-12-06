@@ -39,10 +39,9 @@
   place_name: "Pittsburgh, PA"
   description: "The Western Pennsylvania Regional Data Center (WPRDC), a data intermediary, created
   a set of personas to better understand the context and problems of people that access the data
-  they administer. WPRDC developed the personas during a workshop run by Collections as Data. WPRDC
-  focused on understanding goals, skills, and technical ability of data users based on their
-  experience of interactions with users. The result is a creative set of personas that helps WPRDC
-  staff think about the region’s data needs."
+  they administer. WPRDC focused on understanding goals, skills, and technical ability of data users
+  based on their experience of interactions with users. The result is a creative set of personas that
+  helps WPRDC staff think about the region’s data needs."
   links:
     "See All WPRDC Personas": https://docs.google.com/presentation/d/1zCpShjwHl8k-NCGCFHwruBd3xew1Wyh1NsIjKL6l3fY/edit#slide=id.p5
 
