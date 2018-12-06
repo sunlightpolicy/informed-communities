@@ -189,9 +189,9 @@ An important piece of building community trust in public data and public institu
 
 **The result: Demonstrated success**
 
-Completing a tactical, community-informed project by using this process can demonstrate to stakeholders inside and outside of your organization that open data has clear applications in addressing pertinent social issues. As data providers on first attempts at working with community members to apply open data, they can slowly begin increasing their maturity and taking on harder, and more impactful social issues.
+Completing a tactical, community-informed project by using this process can demonstrate to stakeholders inside and outside of your organization that open data has clear applications in addressing pertinent social issues. As data providers continually work with community members to apply open data, they can incrementally increase their maturity and take on harder, more impactful social issues.
 
-In our work, we've found that community members, no matter their core issues, no matter their role in the city, can always benefit from better information in some shape or form. Sometimes that information comes in the form of open data. With this framework, we hope that cities will expand the way that open data plays a role in improving lives for communities' residents.
+In our work, we've found that community members, no matter their core issues, no matter their role in the city, can always benefit from better information in some shape or form. Sometimes that information comes in the form of open data. With this framework, we hope that cities will expand the role that open data plays in improving residents' and empowering them to take action.
 
 ## A Modular Approach
 
