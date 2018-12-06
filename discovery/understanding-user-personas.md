@@ -22,21 +22,19 @@ What can you do with user personas?
 
 Some cities and data intermediaries have already created user personas for open data, which we’ve gathered together on this site.
 
-<p>
-  <a href="../personas-library/" class="link-arrow-right">
-    Check out our library of user personas for open data
-    {% include svg/icons/arrow-right.svg %}
-  </a>
-</p>
+{%
+  include link-arrow-right.html
+  url="../personas-library/"
+  text="Check out our library of user personas for open data"
+%}
 
 Good design is inherently creative: generating user personas entails a jump from data to imaginary characters. We thought of some tips to help instill confidence to create personas by conducting ethnographic research and synthesizing qualitative evidence into prototypes. The tips include actionable guidelines that should result in a smooth process of moving from empirical observation into ideation and representation.  
 
-<p>
-  <a href="../creating-user-personas/" class="link-arrow-right">
-    Check out our tips for creating user personas
-    {% include svg/icons/arrow-right.svg %}
-  </a>
-</p>
+{%
+  include link-arrow-right.html
+  url="../creating-user-personas/"
+  text="Check out our tips for creating user personas"
+%}
 
 Data stewards may approach this guide with a variety of capacities and needs; there is room for you choose how developed your personas need to be and how much research to invest in the final product. If a small team runs a workshop for several departments that result in preliminary personas, more staff will gain familiarity with the concept of personas, which may in turn prompt investing more resources into future user research.
 
