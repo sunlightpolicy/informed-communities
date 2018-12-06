@@ -4,11 +4,15 @@ layout: primary
 lead: "Planning with use cases can ensure that open data will be used to productive and potentially impactful ends."
 ---
 
+<h3 class="p-line-height p-normal pad-bottom-mobile">
 Cities have made great strides in publishing foundational open data, and every day, they’re working to release more and better data. But many city officials still wonder: What will this data do for the community? And who is actually using it?
+</h3>
 
 Anyone publishing data for a broad audience needs to face these questions to understand the impact of their open data efforts. Understanding how data will be applied in the public domain is a key element of planning and allocating limited resources dedicated to open data programs. Ground-truthing data in its potential _use cases_ can ensure that when data is opened, it is for a purpose.
 
 **Planning with use cases can ensure that open data will be used to productive and potentially impactful ends.**
+
+![]({{ site.baseurl }}/assets/img/general/roundtable.jpeg)
 
 Data providers can create use cases by using any research methods to better understand _who_ in the community is looking for data, _what_ specific data they are looking for, and _why_ they are looking for the data. Whether data providers are using survey tools, focus groups, one-on-one interviews, or community meetings to understand potential data users’ needs, they should aim to capture specific details in each of these three areas.
 
