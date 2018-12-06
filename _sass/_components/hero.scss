@@ -2,11 +2,11 @@
 // ==========================
 
 .hero {
-  background-image: url('../img/action-thumbnails/code-for-pgh.jpg');
-  // background-position: center;
-  background-size: cover;
+  background-image: url('../img/general/hands-raised.png');
+  background-position-x: 100%;
+  background-size: 50%;
+  background-repeat: no-repeat;
   padding: 0;
-  background-position: initial; // TEMPORARY
 }
 
 .hero-img-collapsed {
@@ -17,7 +17,7 @@
   background-image: none;
 
   @include media($tablet-screen) {
-    background-image: url('../img/action-thumbnails/code-for-pgh.jpg');
+    background-image: url('../img/general/hands-raised.png');
   }
 }
 
