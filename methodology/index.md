@@ -79,6 +79,8 @@ A final note: This process is meant to be repeated, or _iterated_, so that it ca
 
 The first step in TDE is listening to analyzing community demand signals for transparency, open data, or even policy change, and identifying the issue areas where open data might help.
 
+![Step 1: Find](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-1.png)
+
 <div class="funfact-blockquote">
 <strong>In this step, you should aim to:</strong>
 <br>☑ Evaluate your internal priorities for open data
@@ -99,11 +101,11 @@ Strategies to complete this step can be found in the <a href="{{ site.baseurl }}
 
 After listening to a variety of challenges that might require the community use of open data, choose a focus area by aligning those opportunities with the city’s on-going strategic priorities as well as with the cities information holdings.
 
-![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-1.png)
-
 ### Step 2: Refine
 
 In this step, look within your focus area for open data use cases by investigating who community members are, what open data and information they need, and why they need it.
+
+![Step 2: Refine](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-2.png)
 
 <div class="funfact-blockquote">
 <strong>In this step, you should aim to:</strong>
@@ -132,11 +134,11 @@ Use cases can be fleshed out and humanized through the development of user perso
 
 Multiple user types as laid out through personas may share use cases with other users, or have multiple use cases for open data. This is an imperfect process. Regardless, documenting the _who, what, and why_ components of a use case, and taking extra time to flesh out the _who_ through user personas can help build strong foundations of issue-oriented community-centered design into your open data program.
 
-![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-2.png)
-
 ### Step 3: Design
 
 In this step, ask how you can support identified use cases and map out potential solutions by feasibility and potential impact alongside community stakeholders.
+
+![Step 3: Design](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-3.png)
 
 <div class="funfact-blockquote">
 <strong>In this step, you should aim to:</strong>
@@ -156,7 +158,7 @@ For practical reasons, at this stage, data providers and internal stakeholders o
 Narrowing the focus and choosing to support a specific use case opens the door for data providers to convene people who are specifically relevant to the problem at hand to begin co-designing _solutions_. Data providers should first narrow down the intended users of relevant data and then decide how to work more closely with them to begin mapping potential interventions like products, projects, or tools. This is the point at which data providers and community members alike can convene to ask: _"How might we better support this clear use case for open data?"_
 
 <div class="funfact-blockquote">
-Strategies to complete this step can be found in the [Action section]({{ site.baseurl }}/action/) of this site.
+Strategies to complete this step can be found in the <a href="{{ site.baseurl }}/action/">Action section</a> of this site.
 </div>
 
 **The result: A co-designed project plan**
@@ -169,11 +171,11 @@ Whether the tactical solution you eventually come to is a new tool, a civic hack
 <strong>“How formal does my plan need to be?”</strong> It depends on your context. In a community that has already had lots of conversations about open data and shared goals, a short back and forth over email or an in-person conversation at a community meeting might be enough. In a community where there is less common understanding, you will probably need to do more work building consensus.
 </div>
 
-![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-3.png)
-
 ### Step 4: Implement
 
 This step is where you help actual users, identified through previous research and co-design, to carry out the planned intervention that addresses your community-approved open data use case.
+
+![Step 4: Implement](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-4.png)
 
 Carrying out this intervention is the culmination of facilitating community use of open data. We developed the tactics in this section based on interventions that data providers and cities have used to facilitate community use of open data through projects, tools, or products. The opportunity to facilitate data use may mean sharing datasets that are not currently available in formats and with contents that best suit the needs of the requesters.
 
@@ -190,8 +192,6 @@ An important piece of building community trust in public data and public institu
 Completing a tactical, community-informed project by using this process can demonstrate to stakeholders inside and outside of your organization that open data has clear applications in addressing pertinent social issues. As data providers on first attempts at working with community members to apply open data, they can slowly begin increasing their maturity and taking on harder, and more impactful social issues.
 
 In our work, we've found that community members, no matter their core issues, no matter their role in the city, can always benefit from better information in some shape or form. Sometimes that information comes in the form of open data. With this framework, we hope that cities will expand the way that open data plays a role in improving lives for communities' residents.
-
-![](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-4.png)
 
 ## A Modular Approach
 
