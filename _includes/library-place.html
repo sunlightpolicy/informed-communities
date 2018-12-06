@@ -1,16 +1,16 @@
 <div class="usa-grid">
   <section class="usa-section">
     <div class="usa-width-two-thirds">
-      <h3>{{ include.place_name }}</h3>
+      <h2>{{ include.place_name }}</h2>
       <p>{{ include.place_desc }}</p>
       {% for link in include.links %}
-        <p>
-          <a href="{{ link[1] }}" class="link-arrow-right" tabindex="0">
-            {{ link[0] }}
-            <span class="usa-sr-only">about {{ include.place_name }}</span>
-            {% include svg/icons/arrow-right.svg %}
-          </a>
-        </p>
+        {% assign link_text = link[0] %}
+        {% assign link_url = link[1] %}
+        {%
+          include link-arrow-right.html
+          url=link_url
+          text=link_text
+        %}
       {% endfor %}
     </div>
   </section>
