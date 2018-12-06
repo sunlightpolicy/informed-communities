@@ -1,0 +1,30 @@
+---
+title: Library of user personas for open data
+layout: primary
+lead: Explore user personas that cities and data intermediaries have developed.
+content_wide: true
+content_focus: false
+banner_cta: true
+gridless: true
+---
+
+<div class="usa-grid">
+  <section class="usa-section">
+    <div class="usa-width-two-thirds">
+      <p>This library tracks and collects currently existing user personas, a human-centered design tool that open data programs are beginning to use to understand their users and communicate about their needs and behaviors. User personas are informative <a href="https://sunlightfoundation.com/2018/01/31/how-open-data-can-support-equitable-and-complete-neighborhoods-in-madison-wi-our-third-pilot-of-tactical-data-engagement/">user research composites</a>. When technologists design open data portals, they can use personas as a tool to keep in mind how real people might approach their product.</p>
+      <p>Each set of personas in the library varies in granularity according to need &mdash; from sector-specific departmental initiatives to citywide objectives, to regional collaboration and data sharing. Open data user personas are a valuable product of and asset to the <a href="{{ site.baseurl }}/methodology/#step-2-refine">Refine stage</a> of the <a href="{{ site.baseurl }}/methodology/">Tactical Data Engagement framework</a>.</p>
+      <p dir="ltr">Do you have personas for open data that aren’t here? Email us at <a href="mailto:opencities@sunlightfoundation.com">opencities@sunlightfoundation.com</a>.</p>
+    </div>
+  </section>
+</div>
+
+{% for place in site.data.personas_places %}
+  {% unless place.exclude == true %}
+    {% include library-place.html
+      place_code=place.place_code
+      place_name=place.place_name
+      place_desc=place.description
+      links=place.links
+    %}
+  {% endunless %}
+{% endfor %}
