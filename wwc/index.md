@@ -5,17 +5,28 @@ lead: Learn how this site’s resources can help you meet WWC Certification crit
 banner_cta: false
 ---
 
-# Interested in getting certified through What Works Cities?
+# Build a government residents can count on
 
-Sunlight Open Cities partners with Bloomberg Philanthropies’ [What Works Cities (WWC) Initiative](https://whatworkscities.bloomberg.org/) to provide direct technical assistance to U.S. cities to become more data-driven and data-democratized.
+The Sunlight Foundation’s [Open Cities team](https://sunlightfoundation.com/policy/open-cities/) partners with Bloomberg Philanthropies’ [What Works Cities](https://whatworkscities.bloomberg.org/) (WWC) initiative to help local governments improve residents’ lives by using data and evidence effectively to tackle pressing challenges. We do this by supporting U.S. cities to become more data-driven and data-democratized.
 
 <img src="{{ site.baseurl }}/assets/img/logos/wwc-resource-stamp.png" align="right" alt="What Works Cities resource stamp" width="120" style="margin-left:15px;">
 
-Whether cities are just starting out developing an open data policy, or beginning to dive deeper into engaging and mobilizing your community with open data, the Roadmap to Informed Communities has resources that can help cities work towards [WWC Certification](https://whatworkscities.bloomberg.org/certification/) the national standard of excellence for well-managed, data-driven local government..
+Whether you’re just starting out on developing an open data policy, or you’re ready to dive deeper into engaging and mobilizing your community with open data, the Roadmap to Informed Communities has resources that can help you work toward [WWC Certification](https://whatworkscities.bloomberg.org/certification/), the national standard of excellence for well-managed, data-driven local government.
 
-Certification, which is open to any U.S. city with a population of 30,000 or more, helps local governments benchmark their progress and develop a roadmap for using data and evidence to deliver results for residents. Completing a [Certification assessment](https://www.surveygizmo.com/s3/4620807/NEW-2018-Certification-Application/) is the entry point to What Works Cities and accessing the range of support our partners offer.
+Certification, which is open to any U.S. city with a population of 30,000 or more, helps local governments benchmark their progress and develop a roadmap for using data and evidence to deliver results for residents.
 
-Sunlight’s resources, including this site, primarily support What Works Cities in meeting **Open Data** and **Stakeholder Engagement** Certification criteria.
+![WWC certification-level badges]({{ site.baseurl }}/assets/img/general/wwc-cert-levels.png)
+
+Completing a [Certification assessment](https://www.surveygizmo.com/s3/4620807/NEW-2018-Certification-Application) is the first step to participating in the program. Doing so makes your city eligible for a wide range of support from WWC, from access to the initiative’s learning network to the receipt of targeted technical assistance from WWC’s expert partners, including our team at Sunlight.
+
+{% include link-arrow-right.html
+  url="https://www.surveygizmo.com/s3/4620807/NEW-2018-Certification-Application"
+  text="Start your WWC Certification assessment"
+%}
+
+Learn below how this site can support you in meeting the **Open Data** and **Stakeholder Engagement** WWC Certification criteria.
+
+<br>
 
 ### Open Data criteria:
 
@@ -36,3 +47,5 @@ Sunlight’s resources, including this site, primarily support What Works Cities
 ### Other criteria:
 
 While Open Data and Stakeholder Engagement are the primary focuses of our work with What Works Cities, we also collaborate with partners at the [Government Performance Lab](https://govlab.hks.harvard.edu/) and the [Center for Government Excellence (GovEx)](https://govex.jhu.edu/) to provide support to meet Certification criteria on **Results-Driven Contracting** and **Data Governance**, respectively.
+
+![WWC footer]({{ site.baseurl }}/assets/img/general/wwc-footer-03.jpg)
