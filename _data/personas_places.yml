@@ -34,6 +34,17 @@
   links:
     "See the comprehensive MORPC Research Paper on Central Ohio Data Users": https://drive.google.com/file/d/0B0VAjJ09KXQ3LTZEeGxTb1RBTlNvYzlEcjRValItR2gtLTVB/view?usp=sharing
 
+- place_code: norfolk
+  place_name: "Norfolk, VA"
+  description: "In recent years, flooding has become a persistent issue in Norfolk — making
+  major roads inaccessible even when the city is not experiencing weather-related flooding
+  emergencies, which can destroy property and cause backlogs in services. The City of Norfolk
+  was eager to see how their new open data program could help respond to these issues, and
+  reached out to the Sunlight Foundation to find a community-centered open data solution.
+  The City used Tactical Data Engagement methods to support those residents working to
+  address flooding and build a more resilient Norfolk."
+  links:
+    "Read our case study": /case-studies/norfolk/
 
 - place_code: wprdc
   place_name: "Pittsburgh, PA"
