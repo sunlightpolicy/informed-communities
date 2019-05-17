@@ -12,7 +12,7 @@ $('aside').append($('<nav class="nav-accordion nav-subnav usa-accordion" role="n
 $('nav#toc').append($('<button class="usa-accordion-button nav-accordion-button nav-accordion-button-desktop" aria-expanded="false">Contents:</button><button class="usa-accordion-button usa-accordion-button-chevron nav-accordion-button nav-accordion-button-mobile" aria-expanded="false" aria-controls="contents">Contents:</button><ul id="contents" class="usa-sidenav-list usa-accordion" aria-hidden="true"></ul>'));
 
 // Select all H1 and H2 headings on the page + add them to the table of contents
-var headings = $('h1, h2, h3', $('#main-column'));
+var headings = $('h1, h2', $('#main-column'));
 headings.each(function (index) {
   var item = headings[index];
   var item_id = item.id;

@@ -1,7 +1,7 @@
 <div class="usa-grid">
   <section class="usa-section">
-    <div class="usa-width-two-thirds">
-      <h2>{{ include.place_name }}</h2>
+    <div class="usa-one-whole">
+      <h2 id="{{ include.place_name | slugify }}">{{ include.place_name }}</h2>
       <p>{{ include.place_desc }}</p>
       {% for link in include.links %}
         {% assign link_text = link[0] %}
@@ -29,6 +29,7 @@
           {% assign image_location = "/assets/img/personas/" | append: persona.image %}
         {% endif %}
         {% include card.html
+          columns=2
           image_src=image_location
           image_alt=project.image_accessibility
           image_icon=project.image_icon
