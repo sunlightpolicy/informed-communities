@@ -111,6 +111,3 @@ Sunlight’s analysis of public concerns and in-depth open data user research ha
 - Strategies to Engage:
     - Publish more indicator data, catered to CBO needs.
     - Highlight successful data to action use cases.
-
-
-<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script>

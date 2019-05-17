@@ -72,6 +72,3 @@ Sunlight and GPL’s open data user research has uncovered the following finding
 - Most vendors had no misgivings about the city **proactively releasing procurement information**, including information from their bid submissions, as open data because they already understood that information to be public through Arizona Public Records Law
 
 The findings derived from the user research and user testing of this process will shape how Glendale designs its future vendor portal. The city is now armed with the knowledge that the improvements it will make the portal, will reflect the needs of users and move the city forward in easing use for new market entrants and current vendors. We look forward to hearing how the will further iterate from the information gathered here and apply the concepts of Tactical Data Engagement in their contracting process.
-
-
-<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script> 

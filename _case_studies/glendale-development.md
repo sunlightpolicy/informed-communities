@@ -73,6 +73,3 @@ Sunlight’s information-demand analysis and open data user research has uncover
 Sunlight will produce additional findings as we work with Glendale to beta test its open data portal and data documentation with actual users of development services data.
 
 _Top: Photo by [Kevin Rutherford](https://www.flickr.com/photos/ktr101/21589839018/)._
-
-
-<script src="{{ site.baseurl }}/assets/js/create-toc-from-headings.js"></script>
