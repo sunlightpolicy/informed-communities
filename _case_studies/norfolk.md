@@ -1,6 +1,7 @@
 ---
 title: "Creating a more resilient city"
 lead: "The City of Norfolk used Tactical Data Engagement methods to put open data in the hands of residents who are fighting for a more resilient city."
+agency: "Norfolk, VA"
 layout: primary
 image_primary: "/assets/img/case-studies/norfolk-flooding.jpg"
 ---
