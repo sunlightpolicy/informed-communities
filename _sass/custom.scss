@@ -1,4 +1,4 @@
-// Custom rules for this site. In general, the goal is to not have ad-hoc rules like this, but it's being done here to avoid messing with the intricately complicated style rules that come with the site. This is only for the featured-resources section of the home page.
+// Custom rules for this site. In general, the goal is to not have ad-hoc rules like this, but it's being done here to avoid messing with the intricately complicated style rules that come with the site.
 
 
 // Custom styles for Sunlight bar at top of page:
@@ -33,13 +33,6 @@
     height: 4.5rem;
 }
 
-
-// Custom font for headers:
-
-h1, h2, h3 {
-    font-family: 'adrianna' !important; // fallback is the regular $font-sans
-}
-
 // Custom styles for header:
 
 header[role=banner] {
@@ -61,50 +54,6 @@ div.site-navbar nav {
 
 div.site-navbar nav ul li a {
     color: white;
-}
-
-// Rules for the display of accordions on home page:
-
-/* Style the buttons that are used to open and close the accordion panel */
-.accordion {
-    // background-color: #eee;
-    // color: #444;
-    cursor: pointer;
-    padding: 13px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.4s;
-    margin-bottom: 12px;
-    background-image: none;
-}
-
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .accordion:hover {
-    background-color: #ccc;
-}
-
-/* Plus and minus signs on the accordion buttons */
-.accordion:after {
-    content: '\02795'; /* Unicode character for "plus" sign (+) */
-    font-size: 13px;
-    color: #777;
-    float: right;
-    margin-left: 5px;
-}
-
-.active:after {
-    content: "\2796"; /* Unicode character for "minus" sign (-) */
-}
-
-/* Style the accordion panel. Note: hidden by default */
-.panel {
-    padding: 0 18px;
-    background-color: white;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
 }
 
 // Fix card arrangement in two-column layout:
