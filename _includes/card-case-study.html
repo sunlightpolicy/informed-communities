@@ -1,0 +1,11 @@
+{% assign case_study = site.case_studies | where: 'slug', include.slug | first %}
+{% assign case_study_url = site.baseurl | append: case_study.url %}
+{% include card.html
+ image_src=case_study.image_primary
+ image_alt=project.image_accessibility
+ image_icon=project.image_icon
+ agency=case_study.agency
+ tagline=case_study.title
+ description=""
+ link=case_study.url
+%}

@@ -9,7 +9,7 @@ gridless: true
 <div class="usa-grid">
   <section class="usa-section">
     <div class="usa-width-two-thirds">
-      <p>We've piloted a number of innovative approaches to open data and provide access to information for community problem solving. Our case studies investigate how Sunlight and our partners apply community-centered open data and the <a href="{{ site.baseurl }}/methodology/">Tactical Data Engagement</a> (TDE) framework to make local governments more transparent, accountable, and participatory.</p>
+      <p>We’ve piloted a number of innovative approaches to open data and provide access to information for community problem solving. Our case studies investigate how Sunlight and our partners apply community-centered open data and the <a href="{{ site.baseurl }}/methodology/">Tactical Data Engagement</a> (TDE) framework to make local governments more transparent, accountable, and participatory.</p>
     </div>
   </section>
 </div>
@@ -18,18 +18,10 @@ gridless: true
   <section class="usa-section">
     <div class="usa-section-bottom">
       <div class="usa-flex usa-flex-wrap">
-        {% for case_study in site.case_studies %}
-        {% assign case_study_url = site.baseurl | append: case_study.url %}
-        {% include card.html
-         image_src=case_study.image_primary
-         image_alt=project.image_accessibility
-         image_icon=project.image_icon
-         agency=case_study.agency
-         tagline=case_study.title
-         description=""
-         link=case_study_url
-        %}
-        {% endfor %}
+        {% include card-case-study.html slug='norfolk' %}
+        {% include card-case-study.html slug='madison' %}
+        {% include card-case-study.html slug='glendale-development' %}
+        {% include card-case-study.html slug='glendale-contracting' %}
       </div>
     </div>
   </section>
