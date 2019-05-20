@@ -1,6 +1,7 @@
 ---
-title: "Development Services in Glendale, Arizona"
+title: "Improving access to information on neighborhood development"
 lead: "Case study"
+agency: "Glendale, AZ"
 layout: primary
 image_primary: "/assets/img/case-studies/glendale-development.png"
 ---

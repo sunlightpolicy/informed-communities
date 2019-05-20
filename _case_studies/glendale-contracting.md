@@ -1,6 +1,7 @@
 ---
-title: "Open contracting in Glendale, Arizona"
+title: "Opening data about contracting"
 lead: "Case study"
+agency: "Glendale, AZ"
 layout: primary
 image_primary: "/assets/img/case-studies/glendale-city-hall.png"
 ---

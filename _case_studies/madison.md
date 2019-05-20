@@ -1,6 +1,7 @@
 ---
-title: "Equitable and Complete Neighborhoods in Madison, Wisconsin"
+title: "Fostering equitable and complete neighborhoods"
 lead: "Case study"
+agency: "Madison, WI"
 layout: primary
 image_primary: "/assets/img/case-studies/madison.png"
 ---
