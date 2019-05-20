@@ -18,7 +18,6 @@ The [Case Studies page](https://communities.sunlightfoundation.com/case-studies/
 
 The [page](https://communities.sunlightfoundation.com/wwc/) with information on What Works Cities certification is at [`wwc/index.md`](https://github.com/sunlightpolicy/informed-communities/blob/master/wwc/index.md).
 
-
 ## Design components
 
 In general, consult the [18F Style Guide](https://18f.gsa.gov/styleguide/) for information on how to use the various design components, styles, and layouts on this site.
