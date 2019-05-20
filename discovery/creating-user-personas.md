@@ -5,13 +5,14 @@ lead: Use these tips as a guide to compile ethnographic observations into a form
 banner_cta: true
 create_toc: true
 ---
-### Step 1: User Discovery
+
+## Step 1: User Discovery
 
 Generating effective personas begins with research, which requires going out and talking to community members. The point of user discovery is to elicit stories that can emerge in patterns. Scheduling and conducting interviews accounts for most of the time involved in creating personas. Two to four weeks is a good window for lightweight user discovery sprints.
 
 
 
-##### 1A Prepare Your Team
+### 1A Prepare Your Team
 
 
 
@@ -25,7 +26,7 @@ Make sure you operate within a focus area. [Narrow the scope](http://sunlightfou
 - Run a preliminary [personas workshop.](https://drive.google.com/drive/folders/1e9RJ-k8sv37-86VCTD0Gqhdi5Rvf6NL4)
 
 
-##### 1B Conduct Key Informant Interviews (KIIs)
+### 1B Conduct Key Informant Interviews (KIIs)
 
 
 
@@ -34,7 +35,7 @@ Key Informants may include local community leaders, relevant community organizat
 - Conduct ~5 KIIs for gaining a wide initial understanding of the open data user landscape. Ask Key Informants for referrals to interviewees.
 
 
-##### 1C Conduct User Interviews
+### 1C Conduct User Interviews
 
 
 
@@ -56,7 +57,7 @@ Rigorously distinguishing between observation (what is empirically verifiable) a
 
 Make sure participants know that they are valuable to the research, especially if they are not current users. Think about what questions might acknowledge their relevance to the research, i.e.  "What are other times that you have solved a problem, and how?". Keep in mind the goal of the research while conducting user discovery. What would people like to solve? What are the current and potential use cases?
 
-### Step 2: Synthesis
+## Step 2: Synthesis
 
 
 
@@ -64,14 +65,14 @@ The most creative aspect of generating personas is taking information from many 
 
 
 
-##### 2A Meeting Preparation
+### 2A Meeting Preparation
 
 
 
 - Set the agenda for the synthesis meeting before starting. As a group you should articulate what you want to use the personas for. Return to your initial questions or design problems. Share and display the key lines of inquiry. Explicitly agree about what characteristics you want to compare to define and narrow the scope. Each team member should prepare for the meeting by reviewing interview notes, making comments, and beginning to look for patterns.
 
 
-##### 2B Use affinity mapping to identify segmentations
+### 2B Use affinity mapping to identify segmentations
 
 
 
@@ -89,7 +90,7 @@ With key lines of inquiry in mind, try to solidify approximately five categories
 
 - Look for patterns and themes within clusters. Which observations resonate together?
 
-### Step 3: Persona Generation
+## Step 3: Persona Generation
 
 Finalize the synthesis process by compiling the results of brainstorming and affinity mapping. Use [existing personas](https://sunlightpolicy.github.io/open-data-for-communities/personas-library/) or [templates](https://drive.google.com/drive/u/0/folders/1jDPcxT7L8K7js5kYMHJ8SJ6aObX7Q3-M) as a frame of reference, or create your own design. Small anecdotes can help round out a realistic character while also signaling useful information. For example, portraying New York City's [busy bystander](https://opendata.cityofnewyork.us/wp-content/uploads/2017/07/Understanding-the-Users-of-Open-Data_Reboot.pdf#page=29) with headphones conveys a sense that she is preoccupied, while allowing us to think of her as a real person.
 
