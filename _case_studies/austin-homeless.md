@@ -3,8 +3,10 @@ title: "Reforming services for people experiencing homelessness"
 lead: "The City of Austin used Tactical Data Engagement methods to find how open data might supercharge existing efforts to reform services for people experiencing homeless."
 agency: "Austin, TX"
 layout: primary
-image_primary: "/assets/img/case-studies/norfolk-flooding.jpg"
+image_primary: "/assets/img/case-studies/austin-board.jpg"
 ---
+
+![]({{ page.image_primary | prepend: site.baseurl }})
 
 The City of Austin used Tactical Data Engagement methods to find how open data might supercharge existing efforts to reform services for people experiencing homeless.
 
