@@ -61,7 +61,7 @@ No matter where your community is in its open data work, we hope you enjoy readi
 
 Tactical Data Engagement can help data providers complete tactical, lightweight projects while building toward long-term human-centered open data practice.
 
-![TDE funnel-grid diagram](https://raw.githubusercontent.com/sunlightpolicy/gitbook-tde/master/assets/tde-funnel-grid.png)
+![TDE funnel-grid diagram]({{ site.baseurl }}/assets/img/tde/tde-funnel-grid-small.png)
 
 In this guide, we lay out a sequence for Tactical Data Engagement that starts with broad problem scoping and ends with supporting a tactical, lightweight, specific opportunity for community use of open data. This framework is perfect for testing out principles of human-centered open data and demonstrating value through resident-centered stories of impact.
 
