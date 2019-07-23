@@ -29,7 +29,11 @@
 <!-- Creator -->
 <meta name="twitter:creator" content="@SunlightCities">
 <!-- Title -->
-{% if page.title %}
+{% if page.url == "/" %} <!-- If it's the home page -->
+  <title>{{ site.title }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }}" />
+  <meta property="twitter:title" content="{{ site.title | xml_escape }}" />
+{% elsif page.title %}
   <title>{{ page.title }} — {{ site.title }}</title>
   <meta property="og:title" content="{{ page.title | xml_escape }} — {{ site.title | xml_escape }}" />
   <meta name="twitter:title" content="{{ page.title | xml_escape }} — {{ site.title | xml_escape }}">
