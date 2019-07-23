@@ -3,7 +3,7 @@ title: Resources for What Works Cities
 layout: primary
 lead: Learn how this site’s resources can help you meet WWC Certification criteria
 banner_cta: false
-image_primary: "{{ site.baseurl }}/assets/img/general/wwc-cert-levels.png"
+image_primary: "/assets/img/general/wwc-cert-levels.png"
 ---
 
 # Build a government residents can count on
