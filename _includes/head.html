@@ -62,6 +62,19 @@
   {% if page.image_accessibility %}
     <meta name="twitter:image:alt" content="{{ page.image_accessibility }}">
   {% endif %}
+{% elsif page.image_primary %}
+  <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}{{ page.image_primary }}">
+  <meta name="image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image_primary }}">
+  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image_primary }}" />
+  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}{{ page.image_primary }}">
+  {% if page.image_accessibility %}
+    <meta name="twitter:image:alt" content="{{ page.image_accessibility }}">
+  {% endif %}
+{% else %}
+  <link rel="image_src" href="{{ siteurl }}{{ site.baseurl }}/assets/img/home-page-preview.png">
+  <meta name="image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/home-page-preview.png">
+  <meta property="og:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/home-page-preview.png" />
+  <meta name="twitter:image" content="{{ siteurl }}{{ site.baseurl }}/assets/img/home-page-preview.png">
 {% endif %}
 
 <!-- Author -->

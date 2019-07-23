@@ -5,6 +5,7 @@ layout: primary
 lead: "A guiding framework for data providers, inside and outside of City Hall, to investigate and catalyze community use of information and open data."
 redirect_from: /philosophy/
 create_toc: true
+image_primary: "{{ site.baseurl }}/assets/img/tde/tde-funnel-grid-small.png"
 ---
 
 ## Preface
