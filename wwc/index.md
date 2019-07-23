@@ -1,7 +1,7 @@
 ---
 title: Resources for What Works Cities
 layout: primary
-lead: Learn how this site’s resources can help you meet WWC Certification criteria
+lead: "Learn how this site’s resources can help you meet WWC Certification criteria"
 banner_cta: false
 image_primary: "/assets/img/general/wwc-cert-levels.png"
 ---
