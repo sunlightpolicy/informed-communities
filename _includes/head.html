@@ -30,13 +30,13 @@
 <meta name="twitter:creator" content="@SunlightCities">
 <!-- Title -->
 {% if page.title %}
-  <title>{{ page.title }} | {{ site.title }} </title>
-  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}" />
-  <meta name="twitter:title" content="{{ site.title | xml_escape }} | {{ page.title | xml_escape }}">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta property="og:title" content="{{ page.title | xml_escape }} | {{ site.title | xml_escape }}" />
+  <meta name="twitter:title" content="{{ page.title | xml_escape }} | {{ site.title | xml_escape }}">
 {% else %}
-  <title>{{ site.title }} | {{ site.description }}</title>
-  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
-  <meta property="twitter:title" content="{{ site.title | xml_escape }} | {{ site.title | xml_escape }}" />
+  <title>{{ site.title }}</title>
+  <meta property="og:title" content="{{ site.title | xml_escape }}" />
+  <meta property="twitter:title" content="{{ site.title | xml_escape }}" />
 {% endif %}
 
 <!-- Twitter Site -->
