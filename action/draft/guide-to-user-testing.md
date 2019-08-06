@@ -22,24 +22,32 @@ User testing is used in the private sector to understand the consumers of a spec
 
 As described in our [library of user personas for open data]({{ site.baseurl }}/discovery/personas-library/), there are many different types of users of open data. Some have lots of data and technical skills while others don’t. Some want raw data while others want summaries. People have all sorts of motivations, including curiosity, government accountability, advocacy, journalism, and business. Getting feedback from a diverse range of test users can help you ensure that you’re meeting this wide range of needs.
 
-<!-- ## Who does user testing
-
-Add a section about who from a City might be interested in this -->
-
 ## Where it fits in with open data
 
 You might use user testing to get feedback on digital tools, products, or new data platforms.
+
+### When?
 
 There are several times when user testing could be useful:
 - At the beginning of your tool/product design process, to get feedback on an existing website, product, or process
 - Once you have developed a prototype, to get feedback on that first iteration to help improve the final product
 - After a public release, to inform planning for future improvement efforts
 
-<!-- Designing what? We should steer clear of talking about designing services and instead say that open data/public info need to be designed because you're functionally designing civic participation. Say more about the parameters for where/when this is useful. -->
+### Who?
+
+Who should conduct the user testing? A variety of people in government might be relevant or interested:
+- Open data program manager (or equivalent)
+- IT or digital staff
+- Staff who deal with communications or community engagement
+- Staff who deal with public records
+- Public-facing departmental staff
+- 311 operators
+
+Who should your test users be? If you have created [user personas]({{ site.baseurl }}/discovery/) for your open data program or project, then try to find test users who are representative of each of those personas. If you haven’t created personas yet, we recommend doing that first.
 
 ## Limitations of user testing
 
-User testing is just one way of trying to make your open data projects and portals user-centered. It’s not a replacement for other co-design methods, which you should also use. <!-- Additionally, for some solutions, “user testing” (in the traditional sense) might not even be possible. [expand] -->
+User testing is just one way of trying to make your open data projects and portals user-centered. It’s not a replacement for other co-design methods, which you should also use.
 
 Additionally, you should only do user testing if people's feedback will actually be incorporated. So, before user testing, make sure to secure a commitment from decision-makers that user feedback will be taken into account. If you were to do user testing on something for which no further changes will be allowed, then that could leave the test users feeling like their time was wasted.
 
