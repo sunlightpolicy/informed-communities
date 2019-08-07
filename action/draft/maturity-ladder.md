@@ -1,9 +1,9 @@
 ---
 title: "Open Data Maturity Ladder"
 layout: primary
-lead: "Description"
+lead: "Learn about different possible open data interventions, based on level of feasibility and impact"
 create_toc: true
-image_primary: "/assets/img/action-resources/tde-maturity-ladder.png"
+image_primary: "/assets/img/action-resources/tde-maturity-ladder-cropped.png"
 ---
 
 <div class="testimonial-blockquote">
@@ -102,7 +102,7 @@ Interventions that catalyze strong civic tech and open data ecosystems can seek 
 
 ## 6. Formalize community partnerships
 
-For governments
+<em>For governments</em>
 
 At the end of the day, impactful open data applications require actual financial or in-kind investment in groups with subject matter expertise. Open data is just one component of solving local challenges, and it must be combined with social efforts to reform public policies and programs in order to bring about impactful data-driven solutions.
 
