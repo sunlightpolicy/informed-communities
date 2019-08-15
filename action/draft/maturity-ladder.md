@@ -42,11 +42,11 @@ Although many open data providers have found, through their work, that just publ
 
 Opening access to public information or open data can mean publishing it online, but it can also mean removing technical requirements for accessing data, removing legal protections, or compiling data to a central or easy-to-find location.
 
-- **Practical access:** proactively publish data your target community users need 
-- **Technical access:** re-examine which data your governance systems identify as “sensitive” and whether releasing it would _actually_ pose a public risk 
-- **Legal access:** choose [open licenses](https://opendefinition.org/guide/data/) for your open data and tech tools
-- **Cultural access:** Translate data and accompanying resources into languages native or comfortable for community users, and/or make it accessible for people with disabilities
-- **Public awareness:** Invest in communications and marketing for open data and tools
+- **Practical access:** Proactively publish data your target community users need — such as data that is [frequently requested via FOIA](https://sunlightfoundation.com/2018/10/16/results-from-analyzing-public-record-requests/) or [commonly viewed and downloaded in other cities](https://sunlightfoundation.com/2018/10/16/results-from-analyzing-public-record-requests/).
+- **Technical access:** Re-examine which data your governance systems identify as “sensitive” and whether releasing it would _actually_ pose a public risk.
+- **Legal access:** Choose [open licenses](https://opendefinition.org/guide/data/) for your open data and tech tools.
+- **Cultural access:** Translate data and accompanying resources into languages native or comfortable for community users, and/or make it accessible for people with disabilities.
+- **Public awareness:** Invest in communications and marketing for open data and tools.
 
 ## 2. Diversify tools and resources 
 
