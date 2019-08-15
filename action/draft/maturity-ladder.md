@@ -3,7 +3,7 @@ title: "Open Data Maturity Scale"
 layout: primary
 lead: "Learn about different possible open data interventions, based on level of feasibility and impact"
 create_toc: true
-image_primary: "/assets/img/action-resources/tde-maturity-ladder-cropped.png"
+image_primary: "/assets/img/action-resources/tde-maturity-scale-twitter.png"
 ---
 
 <div class="testimonial-blockquote">
