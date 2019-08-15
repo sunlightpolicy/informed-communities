@@ -55,11 +55,10 @@ Beyond just providing access to relevant open data, open data providers need to 
 At this level, open data providers may have published some raw data in a basic format, but users who can use the data to generate the most impact may prefer data that’s presented as holistic indicators, or as interactive maps, or as analytic visualizations. It’s impossible to know until data providers get out into the community and refine their understanding of community needs for information. 
 
 - **Data tools:** Build maps or visualizations that address specific research questions.
-- **Data standards:** Enable interoperability, analysis, and collaboration by publishing data in industry-leading [data standards or schemas](https://datastandards.directory/) 
-- **Data resources:** Publish robust metadata, how-to guides, plain language descriptions, or other documentation to ensure that users apply data correctly
-
-- **Curated data:** Curate a collection of datasets that might be combined to better understand a specific issue or address a community use case 
-- **Data help desks:** Provide contact information for City department data owners who can help answer questions about how to find or use open data
+- **Data standards:** Enable interoperability, analysis, and collaboration by publishing data in industry-leading [data standards or schemas](https://datastandards.directory/).
+- **Data resources:** Publish robust metadata, how-to guides, plain language descriptions, or other documentation to ensure that users apply data correctly.
+- **Curated data:** Curate a collection of datasets that might be combined to better understand a specific issue or address a community use case.
+- **Data help desks:** Provide contact information for City department data owners who can help answer questions about how to find or use open data.
 - **Data trainings:** Provide data 101 trainings for community users who may not have technical capacity to use raw city data, but want to learn about the benefits of open data.
 
 ## 3. Build channels for responsiveness
@@ -70,11 +69,11 @@ At its best, open data can help start a dialogue between governments and their r
 
 Interventions that build channels for responsiveness revolve around establishing the necessary infrastructure for future open data managers to have the input they need to make ongoing quality improvements. Establishing these channels often feels small, but incorporating feedback into various open data workflows is a big step toward making open data actionable and impactful in the long-term. 
 
-- **Allow users to prioritize:** Publish and regularly update a [data inventory](https://labs.centerforgov.org/data-governance/data-inventory/) including prioritization rankings and allow for community to provide on-going input, and plan to adapt publication priorities accordingly 
-- **Allow users to tell you in person:** Establish a mechanism, like a meeting series or pop-up booth, to regularly ask people in person about what information they’d like to see online, then publish the feedback and the requested data regularly
-- **Allow users to write in:** Set up feedback forms and surveys, ideally across relevant web pages, that include allowing users to request public information or data 
+- **Allow users to prioritize:** Publish and regularly update a [data inventory](https://labs.centerforgov.org/data-governance/data-inventory/) including prioritization rankings and allow for community to provide on-going input, and plan to adapt publication priorities accordingly.
+- **Allow users to tell you in person:** Establish a mechanism, like a meeting series or pop-up booth, to regularly ask people in person about what information they’d like to see online, then publish the feedback and the requested data regularly.
+- **Allow users to write in:** Set up feedback forms and surveys, ideally across relevant web pages, that include allowing users to request public information or data.
 - **Empower advisory groups:** Develop and manage [open data user groups](http://www.wprdc.org/data-user-groups/) to keep up-to-date with emerging needs or issues, and deliver actual results.
-- **Crowdsource new data:** Invite community members to contribute to new open data that reflects community concerns about a specific local issue, for example, bike lane parking violations, and respond to those concerns
+- **Crowdsource new data:** Invite community members to contribute to new open data that reflects community concerns about a specific local issue, for example, bike lane parking violations, and respond to those concerns.
 
 ## 4. Share examples of success
 
@@ -82,10 +81,10 @@ If there are ways to apply open data where certain community groups or users hav
 
 Interventions might take the form of showcases or story maps that show users specific open data applications, or “super-documentation” like instruction manuals to help users replicate solutions. Depending on the local open data environment, open data providers may have to go outside of their communities to find helpful success stories.
 
-- **Create how-to guides:** If you know how you want users to apply your open data, write down the necessary steps and [make specific guidance](http://www.wprdc.org/data-user-guides/) that’s easy to use
-- **Highlight power users:** If key community partners are common open data users, publish their tools, indicators, datasets, or success stories on your website 
-- **Publish problem statements:**  Incentivize users to help solve specific community challenges by [publishing research questions](https://data.cambridgema.gov/widgets/x96z-hdnh) you want users to answer using open data
-- **Track success stories:** Document and publish examples of all of the applications of your open data that you’ve found “in the wild” to show users what’s already out there
+- **Create how-to guides:** If you know how you want users to apply your open data, write down the necessary steps and [make specific guidance](http://www.wprdc.org/data-user-guides/) that’s easy to use.
+- **Highlight power users:** If key community partners are common open data users, publish their tools, indicators, datasets, or success stories on your website.
+- **Publish problem statements:** Incentivize users to help solve specific community challenges by [publishing research questions](https://data.cambridgema.gov/widgets/x96z-hdnh) you want users to answer using open data.
+- **Track success stories:** Document and publish examples of all of the applications of your open data that you’ve found “in the wild” to show users what’s already out there.
 
 ## 5. Catalyze a robust ecosystem
 
@@ -95,10 +94,10 @@ Many civic tech efforts have begun with building communities around technology u
 
 Interventions that catalyze strong civic tech and open data ecosystems can seek to convene members from across backgrounds to ensure that those most affected local issues have a voice in developing innovative data and technology solutions. Building the connective tissue between people who have lived experience of local issues and those who have the skills to implement solutions can help foster a place-based culture of inclusive collaboration and experimentation.
 
-- **Open source civic hacking:** Convene civic hackers and community members to collaboratively provide input and adapt civic tools that help solve specific community challenges
-- **Invite new ideas:** Host scope-a-thons, hack-a-thons, ideas challenges, or Transparency Camps to invite residents to propose new challenges, solutions, and initiatives based on open data for community impact
-- **Build social networks:** Invest in social or community-building events for local civic hackers, journalists, technologists, business owners, and residents that revolve around community problem-solving using open data and civic tech
-- **Host data challenges:** Run annual or otherwise regular events where community members can propose solutions to community challenges using tech and open data
+- **Open source civic hacking:** Convene civic hackers and community members to collaboratively provide input and adapt civic tools that help solve specific community challenges.
+- **Invite new ideas:** Host scope-a-thons, hack-a-thons, ideas challenges, or Transparency Camps to invite residents to propose new challenges, solutions, and initiatives based on open data for community impact.
+- **Build social networks:** Invest in social or community-building events for local civic hackers, journalists, technologists, business owners, and residents that revolve around community problem-solving using open data and civic tech.
+- **Host data challenges:** Run annual or otherwise regular events where community members can propose solutions to community challenges using tech and open data.
 
 ## 6. Formalize community partnerships
 
@@ -108,7 +107,7 @@ At the end of the day, impactful open data applications require actual financial
 
 This level of intervention requires for open data providers to collaborate and share power with external partners who can use open data to complete their work in support of community development or well-being. Partners may be actively involved in data collection, maintenance and quality assurance, or in the use and application of relevant data. Local governments in particular should take an equity mindset to their community partnerships and investigate how open data can help empower and uplift community-driven movements to create the change they want to see.
 
-- **Share bulk data:** Find community partners who have use for individual-level, granular, or bulk data, and create new data-sharing agreements or stand up new APIs to provide them with the data they need
-- **Revamp contracts:** Write open data into new contract templates or upcoming service contracts so that organizations providing community services gain access to or have a hand in creating new, relevant, usable open data that empowers their work 
+- **Share bulk data:** Find community partners who have use for individual-level, granular, or bulk data, and create new data-sharing agreements or stand up new APIs to provide them with the data they need.
+- **Revamp contracts:** Write open data into new contract templates or upcoming service contracts so that organizations providing community services gain access to or have a hand in creating new, relevant, usable open data that empowers their work.
 - **Provide grants:** Open up grant opportunities that reward community organizations for using open data, either by awarding points for open data-centric applications, or by providing open data literacy training and capacity-building as part of all community partnerships.
-- **Co-manage open data:** Fund local partners to participate in open data collaboratives, including through shared efforts to collect new data or build civic tools 
+- **Co-manage open data:** Fund local partners to participate in open data collaboratives, including through shared efforts to collect new data or build civic tools.
