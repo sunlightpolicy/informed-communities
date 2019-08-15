@@ -14,7 +14,7 @@ Based on our work with U.S. cities, we know that open data providers have varied
 
 We created this taxonomy to help cities self-examine their **open data maturity**, and determine how exactly to improve or apply open data for local impact.
 
-![Maturity Ladder graphic]({{ site.baseurl }}/assets/img/action-resources/tde-maturity-ladder.png)
+![Maturity Ladder graphic]({{ site.baseurl }}/assets/img/action-resources/tde-maturity-scale.png)
 
 In order to even decide how to adapt open data for local impact, open data providers need to understand what their community members need. Once open data providers have a set of user personas and use cases in mind, they can choose to focus on one persona or use case where there’s a strong potential for local impact.
 
