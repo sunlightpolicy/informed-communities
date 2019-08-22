@@ -3,6 +3,7 @@ title: "Co-designing solutions"
 layout: primary
 lead: "Learn how to create a participatory design process"
 create_toc: true
+image_primary: "/assets/img/action-resources/codesign-process.png"
 ---
 
 Local governments can use participatory “co-design” principles and practices to help ensure that their programs and products that use open data are designed to meet the needs of current and potential users.
