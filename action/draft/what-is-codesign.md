@@ -1,5 +1,5 @@
 ---
-title: "Co-designing solutions"
+title: "Guide to co-design"
 layout: primary
 lead: "Learn how to create a participatory design process"
 create_toc: true
