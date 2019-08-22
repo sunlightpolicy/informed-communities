@@ -104,9 +104,9 @@ This was a very involved process lasting about a year. Your process can be much 
 ## How to apply co-design principles
 
 
-![Co-design process graphic]({{ site.baseurl }}/assets/img/action-resources/codesign-process.png)
+<!-- ![Co-design process graphic]({{ site.baseurl }}/assets/img/action-resources/codesign-process.png) -->
 
-(Photo credit: [double check])
+<!-- (Photo credit: [double check]) -->
 
 There are a number of methods that you can use as part of your co-design process. <!-- [Note about/linking to our separate guide to various co-design methods] --> Some examples include:
 
@@ -120,6 +120,21 @@ There are a number of methods that you can use as part of your co-design process
 
 <!-- (Photo credit: South Side Civic) -->
 
+For more details on how to conduct specific types of in-person activities, [Service Design Tools](http://www.servicedesigntools.org/taxonomy/term/1) is a great website that details a variety of methods:
+
+![Service Design Tools screenshot]({{ site.baseurl }}/assets/img/action-resources/service-design-tools.png)
+
+<a href="http://www.servicedesigntools.org/taxonomy/term/1">
+  <button class="usa-button usa-button-big">Check out these methods</button>
+</a>
+
+Additional sites with detail on various co-design methods include:
+- [Creativity-based Research: The Process of Co-Designing with Users](https://uxmag.com/articles/creativity-based-research-the-process-of-co-designing-with-users)
+- [Co-Design Workshop Resources: Techniques and Methods](https://www.smallfire.co.nz/2012/07/04/co-design-workshop-resources-techniques-and-methods/)
+- [18F Methods](https://methods.18f.gov/)
+- [Participate in Design: Our Tools, Methods & Principles](http://participateindesign.org/approach/tools)
+- [Design Kit: Co-Creation Session](http://www.designkit.org/methods/33)
+<!-- - [Participatory Design in Practice](https://uxmag.com/articles/participatory-design-in-practice) -->
 
 ## Tips to keep in mind
 
