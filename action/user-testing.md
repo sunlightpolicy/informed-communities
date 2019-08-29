@@ -1,8 +1,9 @@
 ---
-title: "Guide to user testing"
+title: "User-testing toolkit"
 layout: primary
 lead: "Learn how to run activities to get feedback from test users"
 create_toc: true
+image_primary: "/assets/img/general/open-data-day.jpg"
 ---
 
 User testing involves testing a website or product with users, to get an understanding of people’s thought processes, actions, and frustrations. The goal is for those responsible for designing a product to get a first-hand look at what users might see when they go to use your tool for their own purposes. You can test something that already exists or with something that you are in the process of creating.
