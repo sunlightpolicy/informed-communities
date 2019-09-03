@@ -96,7 +96,7 @@ How this should work:
 - The question-asker should not take over control of the computer or give directions on how to do anything.
 
 
-Here are some examples of how to ask questions that get specific answers focusing on user needs and experiences:
+An excellent example of user-testing, courtesy of Sonja Marziano, [to help with asking the right questions focusing on user needs and experiences:](https://www.neighborhoodindicators.org/activities/meetings/hands-workshop-user-centered-design)
 
 | What you want to know | Bad question | Good question | Reason |
 | --- | --- | --- | --- |
