@@ -64,16 +64,16 @@ From an [Urban Institute blog post on beta-testing Data Walks on their Housing O
 
 <div class="testimonial-blockquote">
 
-We’re constantly evaluating new strategies to figure out what works. Our latest experiment: a “data walk” for residents of Altgeld Gardens, a public housing community and HOST site on Chicago’s South Side. Though our work is informed by residents’ experiences, residents aren’t typically involved in the ongoing data collection process. This time, though, we shared baseline survey and administrative data to hear what residents thought of the initiative and to learn what areas our data are not addressing. We are using their input to guide service provision for the remainder of the demonstration.
-<br>
-Community engagement in Altgeld Gardens is notoriously difficult, so we were prepared for the worst. But we worked hard with on-the-ground HOST staff to recruit families to participate and did our best to present the information in a user-friendly and engaging format. Ultimately, 28 adult residents and 8 HOST staff participated in our event—a great success in the Altgeld community. Here’s what we learned.
-<br>
-Our baseline survey revealed heartbreaking facts about food insecurity and hunger in Altgeld Gardens. About half of respondents didn’t have enough food to last the month or worried that their food supply would run out. One-fifth of residents had to cut the size of their meals to make food last longer.
-<br>
-It was shocking to hear responses from HOST staff and families; most felt the numbers should have been higher, indicating that food insecurity and hunger are more prevalent in the community than we expected.
-<br>
-Many adults reported that their children’s HOST experiences motivated them to engage in HOST services themselves.
-What resonated most for HOST adults and youth was being recognized for accomplishing their goals. As one case manager noted, “We had an event that was solely focused on the adults—they received awards and things of that nature—and afterward, my client came up to me and cried and said she had never been acknowledged like that.” We learned that whole family participation and recognition for reaching goals were huge motivating factors in getting HOST adults to take advantage of available services.
+<p>We’re constantly evaluating new strategies to figure out what works. Our latest experiment: a “data walk” for residents of Altgeld Gardens, a public housing community and HOST site on Chicago’s South Side. Though our work is informed by residents’ experiences, residents aren’t typically involved in the ongoing data collection process. This time, though, we shared baseline survey and administrative data to hear what residents thought of the initiative and to learn what areas our data are not addressing. We are using their input to guide service provision for the remainder of the demonstration.</p>
+
+<p>Community engagement in Altgeld Gardens is notoriously difficult, so we were prepared for the worst. But we worked hard with on-the-ground HOST staff to recruit families to participate and did our best to present the information in a user-friendly and engaging format. Ultimately, 28 adult residents and 8 HOST staff participated in our event—a great success in the Altgeld community. Here’s what we learned.</p>
+
+<p>Our baseline survey revealed heartbreaking facts about food insecurity and hunger in Altgeld Gardens. About half of respondents didn’t have enough food to last the month or worried that their food supply would run out. One-fifth of residents had to cut the size of their meals to make food last longer.</p>
+
+<p>It was shocking to hear responses from HOST staff and families; most felt the numbers should have been higher, indicating that food insecurity and hunger are more prevalent in the community than we expected.</p>
+
+<p>Many adults reported that their children’s HOST experiences motivated them to engage in HOST services themselves.
+What resonated most for HOST adults and youth was being recognized for accomplishing their goals. As one case manager noted, “We had an event that was solely focused on the adults—they received awards and things of that nature—and afterward, my client came up to me and cried and said she had never been acknowledged like that.” We learned that whole family participation and recognition for reaching goals were huge motivating factors in getting HOST adults to take advantage of available services.</p>
 
 </div>
 
