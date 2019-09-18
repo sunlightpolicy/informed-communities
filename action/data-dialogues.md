@@ -84,6 +84,8 @@ What resonated most for HOST adults and youth was being recognized for accomplis
 
 ## Tips for successful events
 
+![Alt text for image](assets/img/action-resources/Accessible data visualizations (1).png)
+
 Community Data Dialogues must prioritize inclusivity and accessibility above all else. But before diving into the planning process for an event, it’s important to establish parameters and goals for the event. Collaborate with key stakeholders to draft an agenda, brainstorm target audience and take note of their potential needs. Some examples of questions to consider:
 
 - Who is most likely to attend this event?
@@ -93,8 +95,6 @@ Community Data Dialogues must prioritize inclusivity and accessibility above all
     - Are participants able to access childcare?
     - Will the event be in an accessible location?
     - Will the event be language-accessible?
-
-![Alt text for image](/assets/img/Accessible data visualizations.png)
 
 When planning the event itself, there are several steps organizers can take to ensure the event is as well-run and impactful as can be:
 
