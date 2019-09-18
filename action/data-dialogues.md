@@ -3,7 +3,7 @@ title: "Community Data Dialogues"
 layout: primary
 lead: "Learn how to host events to engage non-technical audiences on open data"
 create_toc: true
-image_primary: "/assets/img/action-thumbnails/scopeathon-blog.jpg"
+image_primary: "/assets/img/action-resources/Accessible data visualizations (1).png"
 ---
 
 ## Introduction
