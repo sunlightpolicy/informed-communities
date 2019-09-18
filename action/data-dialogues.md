@@ -37,6 +37,7 @@ Community organizers or civic hackers can act as facilitators for these events b
 Finally, governments should keep in mind the breadth of useful information to be gathered from these community events. While this playbook is framed in the context of open data work, public feedback can and should be sought out to inform policy, encourage democratic participation, gain insight on public perception of current projects, etc.  
 
 ## Examples from the field
+![Alt text for image](/assets/img/cleveland data days.jpg)
 
 A number of groups both in and outside of government have facilitated accessible open data events to great success. Here are just a few examples from the field of what data-focused events tailored for a nontechnical audience can look like:
 
@@ -82,6 +83,8 @@ What resonated most for HOST adults and youth was being recognized for accomplis
 **[Read the full report >>](https://www.urban.org/research/publication/data-walks-innovative-way-share-data-communities)**
 
 ## Tips for successful events
+
+![Elements of impactful Data Dialogues](/assets/img/Accessible data visualizations.png.jpg)
 
 Community Data Dialogues must prioritize inclusivity and accessibility above all else. But before diving into the planning process for an event, it’s important to establish parameters and goals for the event. Collaborate with key stakeholders to draft an agenda, brainstorm target audience and take note of their potential needs. Some examples of questions to consider:
 
