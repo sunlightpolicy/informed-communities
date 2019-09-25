@@ -8,9 +8,9 @@ image_primary: "/assets/img/action-resources/Accessible data visualizations (1).
 
 ## Introduction
 
-This playbook accompanies our [Guide to Tactical Data Engagement](https://communities.sunlightfoundation.com/methodology/), a guidebook to help cities go beyond open data policies and platforms, to help residents use open data for community problem-solving. Tactical Data Engagement (TDE) helps data providers like city governments provide better open data and public information that's tailored to community needs. 
+This playbook accompanies our [Guide to Tactical Data Engagement](https://communities.sunlightfoundation.com/methodology/), a guidebook to help cities go beyond open data policies and platforms, to help residents use open data for community problem-solving. Tactical Data Engagement (TDE) helps data providers like city governments provide better open data and public information that's tailored to community needs.
 
-This guide aims to help cities engage nontechnical community members on data-driven policymaking, supplementing the Action phase of TDE. It is meant to be applied during the implementation stage of an open data project, after cities have used TDE to find and refine use cases for open data. 
+This guide aims to help cities engage nontechnical community members on data-driven policymaking, supplementing the Action phase of TDE. It is meant to be applied during the implementation stage of an open data project, after cities have used TDE to find and refine use cases for open data.
 
 We designed playbooks to help jumpstart community action, providing stories about how open data advocates have co-designed, collaborated, and solved problems together using open data. The first playbook on [Data User Groups](https://sunlight-foundation.gitbooks.io/playbook-data-user-groups/content/home.html) was released in October 2017, and the second featured [Open Data Scope-a-thons](https://sunlight-open-cities.gitbook.io/playbook-open-data-scope-a-thon/). This playbook is the third in our series. Playbooks are versatile, just like the rest of the TDE approach, and should be used creatively.
 
@@ -22,7 +22,7 @@ These events can take several forms, and groups both in and outside of governmen
 
 ## Why do they matter?
 
-We’ve presented a number of strategies for community engagement on open data. But they tend to attract community data users who are well-versed in reading or using data. 
+We’ve presented a number of strategies for community engagement on open data. But they tend to attract community data users who are well-versed in reading or using data.
 
 This only accounts for a portion of the larger community. Many city residents are interested in participating in government decision making, but may feel they lack the capacity or expertise to understand data that may be relevant to issues that do in fact affect their lives. To accessibly engage all local residents, governments must be creative in determining new ways to bring non-data-savvy audiences into the conversation.
 
@@ -30,9 +30,9 @@ City governments might think of Community Data Dialogues as opportunities to bri
 
 Attendees will benefit from Community Data Dialogues by having an easy and non-threatening entry point into understanding how the city uses data. By marketing events as “dialogues” and not as hacking events or data-centric activities, hosts might welcome people who are possibly threatened by overly technical messages about local issues.  
 
-Community members may be able to enrich existing data with their experiences of life in their communities. For instance, housing data related to new development projects may be augmented by the insights from community members living in the neighborhoods that will grow and change due to new construction. These residents may be able to comment on the quality of the projects, or on how local public spaces are actually use, or attest to the accuracy of maps of local amenities, etc. This qualitative data can bolster the accuracy and utility of the existing quantitative data used to make decisions. 
+Community members may be able to enrich existing data with their experiences of life in their communities. For instance, housing data related to new development projects may be augmented by the insights from community members living in the neighborhoods that will grow and change due to new construction. These residents may be able to comment on the quality of the projects, or on how local public spaces are actually use, or attest to the accuracy of maps of local amenities, etc. This qualitative data can bolster the accuracy and utility of the existing quantitative data used to make decisions.
 
-Community organizers or civic hackers can act as facilitators for these events by helping governments design the Data Dialogues appropriately for the local community. These residents have connections within the community and leverage their networks to ensure that anyone interested has access to participate in the events. 
+Community organizers or civic hackers can act as facilitators for these events by helping governments design the Data Dialogues appropriately for the local community. These residents have connections within the community and leverage their networks to ensure that anyone interested has access to participate in the events.
 
 Finally, governments should keep in mind the breadth of useful information to be gathered from these community events. While this playbook is framed in the context of open data work, public feedback can and should be sought out to inform policy, encourage democratic participation, gain insight on public perception of current projects, etc.  
 
@@ -89,7 +89,7 @@ Community Data Dialogues must prioritize inclusivity and accessibility above all
 
 - Who is most likely to attend this event?
     - How can we promote the event to ensure a wide range of residents attend?
-- Do participants need reassurance their feedback will be used? 
+- Do participants need reassurance their feedback will be used?
 - How can we incentivize attendance?
     - Are participants able to access childcare?
     - Will the event be in an accessible location?
@@ -101,10 +101,10 @@ When planning the event itself, there are several steps organizers can take to e
 
 *Design accessible data visualizations/statistics*
 
-Preparation is key to ensuring impactful Community Data Dialogues. Data experts can work with communications or advocacy professionals to ensure their visualizations are clear, concise, and accessible. They should also work together to imagine the best ways of presenting their information and facilitating a discussion that respects the views of all attendees while still accomplishing the goals of the Dialogue. Organizers should think creatively of the best ways to publicize these events in their specific city contexts and how they might incentivize attendance. Looping in residents regularly engaged in the community can help. 
+Preparation is key to ensuring impactful Community Data Dialogues. Data experts can work with communications or advocacy professionals to ensure their visualizations are clear, concise, and accessible. They should also work together to imagine the best ways of presenting their information and facilitating a discussion that respects the views of all attendees while still accomplishing the goals of the Dialogue. Organizers should think creatively of the best ways to publicize these events in their specific city contexts and how they might incentivize attendance. Looping in residents regularly engaged in the community can help.
 
 - Assemble data relevant to that purpose, in an accessible format
-- Design the event (if you have money, hire designers/data event experts) 
+- Design the event (if you have money, hire designers/data event experts)
 - Determine how to establish feedback loops for additional feedback following the event, and how organizers will respond to issues flagged by participants
 - [Establish performance metrics to gauge impact](https://sunlightfoundation.com/2019/08/13/measuring-the-impact-of-community-engagement-around-open-data/)
 - Promote widely to the community through multiple media channels
@@ -118,9 +118,9 @@ Preparation is key to ensuring impactful Community Data Dialogues. Data experts 
 
 *Focus on facilitation*
 
-Good facilitation means letting everyone have a chance to speak and ensuring that presentations or signage are as jargon-free as possible. Facilitating well should provide an opportunity to make people from a variety of backgrounds feel comfortable and ready to participate. Organizers can read up on [effective, inclusive facilitation](http://www.facilitating.xyz/facilitators-can-infuse-diversity-inclusion-everything/), [design](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e), or work directly with experts in the field to facilitate the event. 
+Good facilitation means letting everyone have a chance to speak and ensuring that presentations or signage are as jargon-free as possible. Facilitating well should provide an opportunity to make people from a variety of backgrounds feel comfortable and ready to participate. Organizers can read up on [effective, inclusive facilitation](http://www.facilitating.xyz/facilitators-can-infuse-diversity-inclusion-everything/), [design](https://uxplanet.org/6-principles-for-inclusive-design-3e9867f7f63e), or work directly with experts in the field to facilitate the event.
 
-Our [Data User Groups playbook](https://sunlight-foundation.gitbooks.io/playbook-data-user-groups/content/home.html) is a great resource for conveners, with a number of tips for effective meetings and some guiding principles for bringing people together to collaborate on data. 
+Our [Data User Groups playbook](https://sunlight-foundation.gitbooks.io/playbook-data-user-groups/content/home.html) is a great resource for conveners, with a number of tips for effective meetings and some guiding principles for bringing people together to collaborate on data.
 
 - Have people sign in and try to gather information on any community organizations people may be affiliated with; take note of attendance counts
 - Document insights (photos, note-taking) 
@@ -130,7 +130,7 @@ Our [Data User Groups playbook](https://sunlight-foundation.gitbooks.io/playbook
 
 *Close feedback loops*
 
-Make sure to do something with documented feedback, as it’s important for local governments to be responsive. People learn to trust by seeing that action was taken, and follow through on feedback will help encourage more people to participate in future convenings. Ideally, post feedback online and describe what actions were taken. 
+Make sure to do something with documented feedback, as it’s important for local governments to be responsive. People learn to trust by seeing that action was taken, and follow through on feedback will help encourage more people to participate in future convenings. Ideally, post feedback online and describe what actions were taken.
 
 - Synthesize feedback 
 - Make a plan to incorporate feedback into action, whether improving upon the current work or incorporating feedback into future iterations of the work
