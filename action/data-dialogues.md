@@ -48,10 +48,10 @@ A number of groups both in and outside of government have facilitated accessible
 [From an article published on cleveland.com](https://www.cleveland.com/metro/2019/03/data-days-cle-engages-community-in-effort-to-make-data-accessible-open-offers-training-april-15.html?fbclid=IwAR0XENcOx1vYrUqeldh7vnC7f55Zsd8Xhbjmaq53nSwlInCSTJoRpUDfscU):
 
 <div class="testimonial-blockquote">
-    
-Data Days CLE was born four years ago in response to a growing urgency to make data more publicly accessible and to transparently include data in civic decision-making.
 
-What began as a small meetup inside a City Hall archival library has since grown into a regional movement, drawing in hundreds of data experts, advocates and dreamers who see data as an engine for building equity, reducing bias and creating accountability, according to Taylor Henschel, co-chair of the event and Microsoft Civic Innovation Fellow.
+<p>Data Days CLE was born four years ago in response to a growing urgency to make data more publicly accessible and to transparently include data in civic decision-making.</p>
+
+<p>What began as a small meetup inside a City Hall archival library has since grown into a regional movement, drawing in hundreds of data experts, advocates and dreamers who see data as an engine for building equity, reducing bias and creating accountability, according to Taylor Henschel, co-chair of the event and Microsoft Civic Innovation Fellow.</p>
 
 </div>
 
