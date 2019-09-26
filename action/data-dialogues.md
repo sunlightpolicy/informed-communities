@@ -53,9 +53,9 @@ A number of groups both in and outside of government have facilitated accessible
 
 <p>What began as a small meetup inside a City Hall archival library has since grown into a regional movement, drawing in hundreds of data experts, advocates and dreamers who see data as an engine for building equity, reducing bias and creating accountability, according to Taylor Henschel, co-chair of the event and Microsoft Civic Innovation Fellow.</p>
 
-<p>One of the co-founders of Data Days CLE, April Hirsh, detailed [the importance of data accessibility and bringing lived experiences into data-centered conversations.](https://sunlightfoundation.com/2019/09/25/thinking-outside-the-box-on-data-users-engaging-non-technical-audiences-in-open-data-work/) </p>
-
 </div>
+
+<p>One of the co-founders of Data Days CLE, April Hirsh, detailed the [importance of data accessibility and bringing lived experiences into data-centered conversations](https://sunlightfoundation.com/2019/09/25/thinking-outside-the-box-on-data-users-engaging-non-technical-audiences-in-open-data-work/) </p>
 
 **_Lesson:_ Partnering with open data expert groups to upskill community members and advocates on data analysis can help them use cities’ open data offerings more effectively.** 
 
