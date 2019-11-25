@@ -1,18 +1,22 @@
 ---
-title: "Community Engagement Impact Framework"
+title: "Measuring the impact of community engagement around open data"
 layout: primary
-lead: "Learn how to measure the outcomes and impacts of efforts to engage the community around open data"
+lead: "Explore our Community Engagement Impact Framework and see it applied to two cities"
 create_toc: true
 image_primary: "/assets/img/action-resources/engagement-framework.png"
 ---
 
 Over time, local government open data programs have evolved from publishing large quantities of open datasets, toward improving usability and impact of open data as a tool for residents to advocate for their communities. When publishing data is the priority, metrics for success (like number of datasets published) are clear and easy to track. But as cities try to enact more effective and impactful community engagement around open data, quantifiable metrics have become much more difficult to define. As a city’s open data programs evolve, the approach to evaluating the outcomes of the program changes as well.
 
-Many [cities are now developing open data programs](https://communities.sunlightfoundation.com/case-studies/) that encourage communities to use data to problem solve, advocate, or hold local government accountable. Cities that are interested in tracking and understanding the potential outcomes of taking a community-centered approach to open data can use our[community engagement impact framework](https://docs.google.com/document/d/1OBy3O2yJJVDL1U9IzZ7ssOBaNvdqZiZOXcM7_Nm9lrA/edit)that outlines the potential impacts associated with various engagement strategies around open data.
+Many [cities are now developing open data programs](https://communities.sunlightfoundation.com/case-studies/) that encourage communities to use data to problem solve, advocate, or hold local government accountable. Cities that are interested in tracking and understanding the potential outcomes of taking a community-centered approach to open data can use our [Community Engagement Impact Framework](/action/impact-framework/framework/) that outlines the potential impacts associated with various engagement strategies around open data.
 
 ![Engagement framework image](/assets/img/action-resources/engagement-framework.png)
 
 The framework presents a logic model with a sequence of related stages that connect **inputs** and **activities** to associated **outputs**, **outcomes**, and **impacts**. Each stage of the model has corresponding metrics that cities can track and measure over time to monitor and ultimately evaluate their efforts.
+
+<a href="/action/impact-framework/framework/">
+  <button class="usa-button usa-button-big">Check out the framework</button>
+</a>
 
 ## The problem
 
@@ -37,6 +41,10 @@ Outcomes and impacts, two terms that often seem synonymous, are differentiated h
 As outcomes and impacts become more abstract, methods of assessing them require greater effort, and _for many broader impacts there is no simple quantitative metric to point to the program’s success_. But qualitative assessments are still worth making, and intermediary metrics can still help local governments set goals and move their engagement efforts forward.
 
 The degree to which local governments can apply this framework will vary depending on capacity and scope of existing community engagement efforts, but we hope that it can provide some guidance and inspiration for cities at different stages of their open data engagement efforts.
+
+<a href="/action/impact-framework/framework/">
+  <button class="usa-button usa-button-big">Check out the framework</button>
+</a>
 
 Conducting community engagement allows local governments to build relationships and gain qualitative insight on open data’s impact in the lives of residents and partner organizations. If cities do not take the additional step to invest in these efforts, they will remain in the dark as to how their commitments to transparency and open governance are successfully empowering the communities they intend to serve.
 
