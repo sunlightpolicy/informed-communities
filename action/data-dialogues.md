@@ -43,7 +43,7 @@ A number of groups both in and outside of government have facilitated accessible
 
 ### Data Days Cleveland
 
-**[Data Days Cleveland](https://www.datadayscle.org/)** is an annual one-day event designed to make data accessible to all. Programs are designed with inclusivity and learning in mind, making it a more welcoming space for people new to data work. Data experts and practitioners direct novices on the fundamentals of using data: making maps, reading spreadsheets, creating data visualizations, etc.
+**[Data Days Cleveland](https://www.datadayscle.org/)** is an annual one-day event designed to make data accessible to all. Programs are designed with inclusivity and learning in mind, making it a more welcoming space for people new to data work. Data experts and practitioners direct novices on the fundamentals of using data: making maps, reading spreadsheets, creating data visualizations, etc. April Hirsh, one of the founders of Data Days CLE, [detailed the importance of data accessibility and bringing lived experiences into data-centered coversations](https://sunlightfoundation.com/2019/09/25/thinking-outside-the-box-on-data-users-engaging-non-technical-audiences-in-open-data-work/).
 
 [From an article published on cleveland.com](https://www.cleveland.com/metro/2019/03/data-days-cle-engages-community-in-effort-to-make-data-accessible-open-offers-training-april-15.html?fbclid=IwAR0XENcOx1vYrUqeldh7vnC7f55Zsd8Xhbjmaq53nSwlInCSTJoRpUDfscU):
 
