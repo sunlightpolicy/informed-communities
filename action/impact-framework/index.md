@@ -46,10 +46,39 @@ To show this framework in action, we applied it to the open data programs of Lou
 
 We hope that by listing their programs’ inputs, activities, outputs, outcomes and impacts, you can learn about how the framework can be put to use and be inspired by some of the engagement strategies both Louisville and WPRDC have developed.
 
-<a href="https://docs.google.com/document/d/1vhm2aZJjLXzEfSnhn2Zyb1ggeUueYg3cPu00Y7XHirk/edit">
+<!-- <a href="/action/impact-framework/louisville/">
   <button class="usa-button usa-button-big">See the framework applied to Louisville</button>
 </a>
 
-<a href="https://docs.google.com/document/d/1NicpEJ2q46mXqURvICNWWj5akfDEqrjZYdlOZkEuQVA/edit">
+<a href="/action/impact-framework/pittsburgh-wprdc/">
   <button class="usa-button usa-button-big">See the framework applied to Pittsburgh/WPRDC</button>
-</a>
+</a> -->
+
+<!-- <div class="usa-grid"> -->
+  <section class="usa-section">
+    <div class="usa-section-bottom">
+      <div class="usa-flex usa-flex-wrap">
+        {% include card.html
+         columns=2
+         image_src="/assets/img/action-resources/louisville-downloads-by-month.png"
+         image_alt=project.image_accessibility
+         image_icon=project.image_icon
+         agency=""
+         tagline="Louisville"
+         description="Using partnerships to enhance open data"
+         link="/action/impact-framework/louisville/"
+        %}
+        {% include card.html
+         columns=2
+         image_src="/assets/img/action-resources/wprdc-classroom-uses.png"
+         image_alt=project.image_accessibility
+         image_icon=project.image_icon
+         agency=""
+         tagline="Pittsburgh/WPRDC"
+         description="How open data has become a backbone of the civic-tech ecosystem"
+         link="/action/impact-framework/pittsburgh-wprdc/"
+        %}
+      </div>
+    </div>
+  </section>
+<!-- </div> -->
