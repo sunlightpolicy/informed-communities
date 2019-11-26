@@ -14,6 +14,12 @@ image_primary: "/assets/img/action-resources/engagement-framework.png"
 
 ![Engagement framework image](/assets/img/action-resources/engagement-framework.png)
 
+{%
+  include link-arrow-right.html
+  url="https://docs.google.com/document/d/1OBy3O2yJJVDL1U9IzZ7ssOBaNvdqZiZOXcM7_Nm9lrA/edit?usp=sharing"
+  text="View a larger version of this table"
+%}
+
 
 ## 1. Inputs
 
